@@ -1,8 +1,8 @@
 {
+  "constellationName": "Leviathan Judicator",
   "name": "Neuvillette",
   "title": "Ordonnateur du jugement inexorable",
   "description": "Le juge suprême de Fontaine, également connu comme l'iudex, est réputé pour son impartialité sans faille.",
-  "constellationName": "???",
   "auto": {
     "name": "Stabilité de l'eau",
     "fields": {

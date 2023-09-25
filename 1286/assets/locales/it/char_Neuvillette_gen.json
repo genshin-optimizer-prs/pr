@@ -1,8 +1,8 @@
 {
+  "constellationName": "Leviathan Judicator",
   "name": "Neuvillette",
   "title": "Sentenza ineluttabile",
   "description": "Il Giudice supremo di Fontaine, anche conosciuto come lo Iudex, famoso per la sua incontestabile imparzialità.",
-  "constellationName": "???",
   "auto": {
     "name": "Acque chete",
     "fields": {

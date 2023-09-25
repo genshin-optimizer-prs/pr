@@ -1,8 +1,8 @@
 {
+  "constellationName": "Cung Nguyên Hải Cự Linh",
   "name": "Neuvillette",
   "title": "Tiếng Sóng Phán Quyết",
   "description": "Thẩm phán tối cao của Fontaine, nổi tiếng với sự công chính liêm minh của mình.",
-  "constellationName": "???",
   "auto": {
     "name": "Tĩnh Lặng Như Nước",
     "fields": {

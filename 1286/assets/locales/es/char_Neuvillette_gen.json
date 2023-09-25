@@ -1,8 +1,8 @@
 {
+  "constellationName": "Leviathan Iudicator",
   "name": "Neuvillette",
   "title": "El Sentenciador de lo Inexorable",
   "description": "El juez supremo de Fontaine. Es conocido por su impecable imparcialidad y abnegación.",
-  "constellationName": "¿?",
   "auto": {
     "name": "Remanso acuático",
     "fields": {
