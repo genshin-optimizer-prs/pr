@@ -528,25 +528,25 @@ Apache-2.0
    See the License for the specific language governing permissions and
    limitations under the License.
 
-@genshin-optimizer/char-cards
+@genshin-optimizer/common/react-util
 
-@genshin-optimizer/consts
+@genshin-optimizer/common/svgicons
 
-@genshin-optimizer/gi-assets
+@genshin-optimizer/common/util
 
-@genshin-optimizer/gi-stats
+@genshin-optimizer/gi/assets
 
-@genshin-optimizer/gi-svgicons
+@genshin-optimizer/gi/char-cards
 
-@genshin-optimizer/gi-util
+@genshin-optimizer/gi/consts
 
-@genshin-optimizer/react-util
+@genshin-optimizer/gi/silly-wisher
 
-@genshin-optimizer/silly-wisher
+@genshin-optimizer/gi/stats
 
-@genshin-optimizer/svgicons
+@genshin-optimizer/gi/svgicons
 
-@genshin-optimizer/util
+@genshin-optimizer/gi/util
 
 @mui/base
 MIT
