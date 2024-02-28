@@ -1,1 +1,0 @@
-import{p as o}from"./index-ecea6479.js";import{a as r,B as n}from"./Help-0d47a114.js";function p(t){return o(n,{placement:"top",...t,children:o(r,{sx:{cursor:"help"}})})}function l(t){return o(n,{placement:"top",...t,children:o(r,{fontSize:"inherit",sx:{cursor:"help",verticalAlign:"-10%"}})})}export{p as I,l as a};
