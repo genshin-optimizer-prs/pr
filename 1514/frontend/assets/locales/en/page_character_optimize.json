@@ -21,7 +21,7 @@
     "currentBuild": "Current Build",
     "highlightedBuilds": "Highlighted Builds",
     "buildAlreadyInList": "Build is already in the list",
-    "summary": "Optimization Target Graphing"
+    "summary": "Optimization Target Graph"
   },
   "levelFilter": "Artifact Level Filter",
   "excludeArt": {
@@ -119,7 +119,8 @@
   "graphBuildLabel": "Graph #<1>{{count}}</1>",
   "buildCompleted": "Build Completed",
   "notifyTooltip": "Play a sound when builds finish generating. Will also show an alarm prompt when tabbed out.",
-  "optFilters": {
-    "title": "Optimization Filters"
-  }
+  "artFilters": {
+    "title": "Artifact Filters"
+  },
+  "useTeammateBuilds": "Use artifacts in teammates' builds"
 }
