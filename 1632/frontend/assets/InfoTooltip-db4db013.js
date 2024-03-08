@@ -1,0 +1,1 @@
+import{p as o}from"./index-85b114a5.js";import{a as r,B as n}from"./BootstrapTooltip-9cc38363.js";function p(t){return o(n,{placement:"top",...t,children:o(r,{sx:{cursor:"help"}})})}function l(t){return o(n,{placement:"top",...t,children:o(r,{fontSize:"inherit",sx:{cursor:"help",verticalAlign:"-10%"}})})}export{p as I,l as a};
