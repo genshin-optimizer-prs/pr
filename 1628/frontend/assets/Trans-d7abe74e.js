@@ -1,0 +1,1 @@
+import{p as a,dG as e}from"./index-74d5c207.js";function n({setKey:t}){return a(e,{ns:"artifactNames_gen",key18:t})}function s({slotKey:t}){return a(e,{ns:"artifact",key18:`slotName.${t}`})}export{s as A,n as a};
