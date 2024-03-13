@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Film for Fun"
   },
+  "Funds": {
+    "name": "Dana"
+  },
   "Primogem": {
     "name": "Primogem"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Xianyun"
   },
+  "Chiori": {
+    "name": "Chiori"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Kamisato Ayaka's Stella Fortuna"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Xianyun's Stella Fortuna"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Chiori's Stella Fortuna"
   },
   "GnosticHymnOldNotes": {
     "name": "Gnostic Hymn - Old Notes"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Yummy Yum Cha"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Suspicious Mega-Meaty Sushi"
+  },
+  "MegaMeatySushi": {
+    "name": "Mega-Meaty Sushi"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Delicious Mega-Meaty Sushi"
+  },
+  "FashionShow": {
+    "name": "\"Fashion Show\""
+  },
   "RecipeItem": {
     "name": "Bahan Resep"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Resep: Chenyu Brew"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Resep: Mega-Meaty Sushi"
   },
   "CraftedItems": {
     "name": "Hasil Craft"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Lensa Optik Latihan Penembakan"
   },
+  "PerinheriI": {
+    "name": "Perinheri (I)"
+  },
+  "PerinheriII": {
+    "name": "Perinheri (II)"
+  },
   "HelpMePlease": {
     "name": "Tolong Aku!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Bungkusan Keluarga Leroy"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Chioriya Boutique - Kegelapan Tak Terlihat di Bawah Kain"
+  },
+  "LovelyLumitoile": {
+    "name": "Lumitoile Indah"
+  },
   "ForgottenKeyI": {
     "name": "Kunci yang Terlupakan (I)"
   },
   "ForgottenKeyII": {
     "name": "Kunci yang Terlupakan (II)"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Perluasan Area Budi Daya (I)"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Perluasan Area Budi Daya (II)"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Perluasan Area Budi Daya (III)"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Perluasan Area Budi Daya (IV)"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Perluasan Area Budi Daya (V)"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Perluasan Area Budi Daya (VI)"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Peningkatan Kuali Alkimia (I)"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Peningkatan Kuali Alkimia (II)"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Peningkatan Kuali Alkimia (III)"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Peningkatan Kuali Alkimia (IV)"
+  },
+  "AngledDropBottle": {
+    "name": "Botol Berbentuk Tetesan Air"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Botol Berbentuk Hati"
+  },
+  "TranquilBayBottle": {
+    "name": "Botol Berbentuk Teluk"
+  },
+  "GorgeousGemBottle": {
+    "name": "Botol Berbentuk Kristal Mewah"
+  },
+  "ChonkyCatBottle": {
+    "name": "Botol Berbentuk Kucing"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Aroma Windwheel Aster"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Seterang Crystalfly"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Pita Hadiah"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Bulu Bunga Bagaikan Raspberry Merah"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Emas dan Emerald"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Dekorasi Toko: Blooming Morale"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Dekorasi Toko: Blooming Atmosphere"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Dekorasi Toko: Potent Potions"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Dekorasi Toko: Portentous Potions"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Dekorasi Toko: Prismatic Effects"
+  },
+  "SalesExpansionContract": {
+    "name": "Kontrak Perluasan Distribusi"
   },
   "XuanlianSacredWater": {
     "name": "Air Suci Xuanlian"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Kunci Tembok Kuno"
   },
+  "BeauteousBerylConch": {
+    "name": "Beryl Conch Indah"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Romaritime Flower Indah"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "Ikan yang Direbut dari Mulut Burung Pelikan"
+  },
+  "FelixFelicium": {
+    "name": "Felix Felicium"
+  },
+  "LynettesEnvelope": {
+    "name": "Amplop Lynette"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Perluasan Area Budi Daya (VII)"
+  },
+  "Alchemeter": {
+    "name": "Alchemeter"
+  },
+  "OfficialScript": {
+    "name": "Naskah Resmi"
+  },
+  "OriginalScript": {
+    "name": "\"Skrip Asli\""
+  },
+  "Manuscript": {
+    "name": "Naskah"
   },
   "TearsAmongTheStars": {
     "name": "Air Mata di Lautan Bintang"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Super-Duper Invincible Shining Sparkly Magic Crystal"
   },
+  "ExaltedEarth": {
+    "name": "\"Exalted Earth\""
+  },
   "FalconsDance": {
     "name": "Falcon's Dance"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "Album: The Stellar Moments"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Chiori: Spectacular Sleeves"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Catatan Perjalanan: Pengumpulan Misterius"
+  },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus Resonance Stone"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Mini Seelie: Brilliance"
   },
+  "Fateometer": {
+    "name": "Fateometer"
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Panduan: Anemoculus Resonance Stone"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Millennial Pearl Seahorse"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Fatui - Electro Cicin Mage"
+  },
   "UndividedHeart": {
     "name": "Undivided Heart"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Pearl Solidification"
   },
+  "ASummationOfInterest": {
+    "name": "A Summation of Interest"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Heir to the Ancient Sea's Authority"
+  },
+  "CountlessSightsToSee": {
+    "name": "Countless Sights to See"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Electro Cicin's Flicker"
+  },
   "MagicGuide": {
     "name": "Magic Guide"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Veteran's Visage"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Tome of the Eternal Flow"
+  },
+  "GoldenTroupesReward": {
+    "name": "Golden Troupe's Reward"
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Harbor Wharf"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Silver and Melus"
+  },
+  "FortressOfMeropide": {
+    "name": "Fortress of Meropide"
   },
   "ElementalResonanceWovenIce": {
     "name": "Resonansi Elemental: Woven Ice"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Sunyata Flower"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "Day of Resistance: Moment of Shattered Dreams"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Controlled Directional Blast"
+  },
   "Origin": {
     "name": "Origin"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "The Chasm: Solid Iron"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "The Chasm: Blue Crystal"
   },
   "BeginnerPlayerBadge": {
     "name": "Lencana Pemain Pemula"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Lampu Batu Lembah: Lilin Terang"
   },
+  "CiderLakelight": {
+    "name": "\"Cahaya Danau Cider\""
+  },
   "EfflorescentIllumination": {
     "name": "Iluminasi Berbunga"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "\"Kesenggangan Pertemuan Harian\""
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Meja Panjang Kedai Teh: Kenangan Sederhana"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Peralatan Kedai Teh: Tinjauan Kualitas"
+  },
   "BreezeBlessedBed": {
     "name": "Ranjang Sesejuk Angin"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "\"Perayaan Pertunjukan Improvisasi\""
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Tungku Kedai Teh: Memasak Raya"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Tungku Kedai Teh: Mengukus Santai"
   },
   "SoftLoungeSofa": {
     "name": "Sofa Ruang Tamu yang Empuk"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "\"Luang Sejenak di Hub Sentral\""
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Bangku Kedai Teh: Kursi Sederhana"
   },
   "NorthernStoneHearth": {
     "name": "Perapian Batu Northland"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Rak Musik Standar: Penyelerasan Presisi"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "Tunas Segar dari Gunung dan Laut"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Peralatan Kedai Teh: Rak Kering"
+  },
+  "TeahouseToolClearView": {
+    "name": "Peralatan Kedai Teh: Pandangan Jernih"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Karpet Mondstadt: Semangat Membara"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Penyangga Catatan Universal"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Peralatan Kedai Teh: Tak Seringan Debu"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "\"Teh Lembut dalam Teko Tanah Liat Merah\""
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "\"Kesadaran dari Tanah Kebijaksanaan\""
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Rumah Lembah: Bangunan Terukur"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Rumah Lembah: Segalanya Dikelompokkan"
+  },
+  "PortsFabulousFlavors": {
+    "name": "\"Rasa Nikmat Ala Pelabuhan\""
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Gedung Mondstadt dengan Banyak Lengkungan"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Tenda Perayaan Taman Bermain"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "\"Situs Peningkatan Strategi\""
   },
   "RitualShrine": {
     "name": "Kuil Ritual"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Papan Pengumuman Cedar"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Alat Misterius yang Dibuat dengan Terampil: Terlahir Susah Namun Berkah"
+  },
   "BookshelfFreeReading": {
     "name": "Rak Buku: Baca dengan Bebas"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Rak Buku: Efek Fokus"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Lemari yang Dibuat dengan Terampil: Perapihan Reguler"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Rak yang Dibuat dengan Terampil: Strategi Panas untuk Berjualan"
+  },
   "PoolOfSapphireGrace": {
     "name": "\"Kolam Renungan Awan\""
   },
   "ShadedClarity": {
     "name": "Akuarium Kayu Cahaya"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "\"Tumpukan dan Transportasi Panen Teh\""
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "\"Inspirasi Perikanan Panen Teh\""
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "\"Alat Multi Panen Teh\""
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "\"Cara Memanen Wewangian Teh\""
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "\"Memanen Wewangian Teh yang Dijemur\""
   },
   "WeatheredBambooFence": {
     "name": "Pagar Bambu Lapuk"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Kursi Teh: Semilir Angin"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "Bangku Batu Desa Teh: Aman, Lebar, Kokoh"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "Menara Penjaga 2 Lapis Hilichurl"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Meja Teh: Menyambut Tamu"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Meja Batu Desa Teh: Santai yang Sudah Tradisi"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Rak Toko Anggur: Sepuas Hati"

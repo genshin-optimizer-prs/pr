@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Cinemonete"
   },
+  "Funds": {
+    "name": "Fondi"
+  },
   "Primogem": {
     "name": "Primogemma"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Xianyun"
   },
+  "Chiori": {
+    "name": "Chiori"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Stella Fortuna di Kamisato Ayaka"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Stella Fortuna di Xianyun"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Stella Fortuna di Chiori"
   },
   "GnosticHymnOldNotes": {
     "name": "Inno gnostico - Vecchi appunti"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Yum cha squisito"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Sushi extracarne sospetto"
+  },
+  "MegaMeatySushi": {
+    "name": "Sushi extracarne"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Sushi extracarne delizioso"
+  },
+  "FashionShow": {
+    "name": "Spettacolo di moda"
+  },
   "RecipeItem": {
     "name": "Ingrediente"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Ricetta: tè di Chenyu"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Ricetta: sushi extracarne"
   },
   "CraftedItems": {
     "name": "Oggetti creati"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Lenti ottiche per pratica di tiro"
   },
+  "PerinheriI": {
+    "name": "Perinheri (I)"
+  },
+  "PerinheriII": {
+    "name": "Perinheri (II)"
+  },
   "HelpMePlease": {
     "name": "Aiutatemi, vi prego!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Pacchetto per la famiglia Leroy"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Boutique Chiori: Le torbide contingenze della moda"
+  },
+  "LovelyLumitoile": {
+    "name": "Lumitoile incantevole"
+  },
   "ForgottenKeyI": {
     "name": "Chiave dimenticata (I)"
   },
   "ForgottenKeyII": {
     "name": "Chiave dimenticata (II)"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Espansione area di coltivazione (I)"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Espansione area di coltivazione (II)"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Espansione area di coltivazione (III)"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Espansione area di coltivazione (IV)"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Espansione area di coltivazione (V)"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Espansione area di coltivazione (VI)"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Calderone alchemico migliorato (I)"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Calderone alchemico migliorato (II)"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Calderone alchemico migliorato (III)"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Calderone alchemico migliorato (IV)"
+  },
+  "AngledDropBottle": {
+    "name": "Boccetta Goccia quadrata"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Boccetta Cuore sublime"
+  },
+  "TranquilBayBottle": {
+    "name": "Boccetta Baia serena"
+  },
+  "GorgeousGemBottle": {
+    "name": "Boccetta Bella gemma"
+  },
+  "ChonkyCatBottle": {
+    "name": "Boccetta Gatto paffuto"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Aroma di Asteria del vento"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Splendore di Cristallottero"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Nastro regalo perfetto"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Piuma floreale vermiglia"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Oro e smeraldo"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Decorazione del negozio Morale fiorente"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Decorazione del negozio Atmosfera fiorente"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Decorazione del negozio Pozioni efficaci"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Decorazione del negozio Pozioni portentose"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Decorazione del negozio Effetti prismatici"
+  },
+  "SalesExpansionContract": {
+    "name": "Contratto di espansione vendite"
   },
   "XuanlianSacredWater": {
     "name": "Acqua sacra di Xuanlian"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Chiave della città antica"
   },
+  "BeauteousBerylConch": {
+    "name": "Conchiglia di Béryl meravigliosa"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Fiore di Romaritime incantevole"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "Pesce strappato dalla bocca di un pellicano"
+  },
+  "FelixFelicium": {
+    "name": "Felix Felicium"
+  },
+  "LynettesEnvelope": {
+    "name": "Busta di Lynette"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Espansione area di coltivazione (VII)"
+  },
+  "Alchemeter": {
+    "name": "Alchimetro"
+  },
+  "OfficialScript": {
+    "name": "Copione ufficiale"
+  },
+  "OriginalScript": {
+    "name": "Copione originale"
+  },
+  "Manuscript": {
+    "name": "Manoscritto"
   },
   "TearsAmongTheStars": {
     "name": "Lacrime tra le stelle"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Cristallo magico scintillante super mega invincibile"
   },
+  "ExaltedEarth": {
+    "name": "Terra sublime"
+  },
   "FalconsDance": {
     "name": "Danza del falco"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "Album: The Stellar Moments"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Chiori: Maniche mozzafiato"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Appunti di viaggio: Convergenza arcana"
+  },
   "AnemoculusResonanceStone": {
     "name": "Pietra di risonanza per Anemoculi"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Mini Seelie: Fulgore"
   },
+  "Fateometer": {
+    "name": "Destinometro"
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Istruzioni: pietra di risonanza per Anemoculi"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Ippocampo Perlamillenario"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Maga Cicin di Electro dei Fatui"
+  },
   "UndividedHeart": {
     "name": "Cuore indivisibile"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Solidificazione perlacea"
   },
+  "ASummationOfInterest": {
+    "name": "Sommatoria d'interessi"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Eredità del Mare antico"
+  },
+  "CountlessSightsToSee": {
+    "name": "Panorami infiniti"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Bagliore della Cicin di Electro"
+  },
   "MagicGuide": {
     "name": "Manuale di magia"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Volto del veterano"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Tomo del flusso perenne"
+  },
+  "GoldenTroupesReward": {
+    "name": "Ricompensa della Compagnia dorata"
+  },
   "LiyueHarborWharf": {
     "name": "Molo del Porto di Liyue"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Silver e Melus"
+  },
+  "FortressOfMeropide": {
+    "name": "Forte Méropide"
   },
   "ElementalResonanceWovenIce": {
     "name": "Risonanza elementale: Ghiaccio intrecciato"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Fiore di Sunyata"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "Giorno della Resistenza: Sogni infranti"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Esplosione direzionale controllata"
+  },
   "Origin": {
     "name": "Origine"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "La Voragine: Color del ferro"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "La Voragine: Cristallo blu"
   },
   "BeginnerPlayerBadge": {
     "name": "Distintivo del giocatore principiante"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Lampada di pietra della valle Luce perpetua"
   },
+  "CiderLakelight": {
+    "name": "Luce del Lago Sicerae"
+  },
   "EfflorescentIllumination": {
     "name": "Illuminazione in boccio"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "Piacevoli incontri quotidiani"
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Tavolo lungo della sala da tè Utensili della nostalgia"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Utensile della sala da tè Controllo qualità"
+  },
   "BreezeBlessedBed": {
     "name": "Letto Dolce brezza"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "Celebrazione di uno spettacolo ad hoc"
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Fornello della sala da tè Cottura sublime"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Fornello della sala da tè Cottura lenta a vapore"
   },
   "SoftLoungeSofa": {
     "name": "Divano comodo"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "Momento di riposo nella stazione centrale"
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Panchina della sala da tè Riposo e semplicità"
   },
   "NorthernStoneHearth": {
     "name": "Camino in pietra del Nord"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Leggio standard Accordatura precisa"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "Freschi boccioli di montagna e d'acqua"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Utensile della sala da tè Conservazione a secco"
+  },
+  "TeahouseToolClearView": {
+    "name": "Utensile della sala da tè Vista nitida"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Tappeto di Mondstadt Ardore cremisi"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Portabiglietti comune"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Utensile della sala da tè Perfezione millimetrica"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "Tè delicato in una tazza di argilla"
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "Zelo della Terra della Saggezza"
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Residenza della valle Edificio misurato"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Residenza della valle Il segreto"
+  },
+  "PortsFabulousFlavors": {
+    "name": "Favolosi sapori del porto"
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Edificio di Mondstadt con archi"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Tenda celebrativa del parco divertimenti"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "Luogo dell'ascensione ingegnosa"
   },
   "RitualShrine": {
     "name": "Altare rituale"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Bacheca degli annunci in legno di cedro profumato"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Dispositivo sapientemente realizzato Purezza e duro lavoro"
+  },
   "BookshelfFreeReading": {
     "name": "Portalibri Lettura libera"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Espositore Lettura intensa"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Credenza sapientemente realizzata Ordine sistematico"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Scaffale sapientemente realizzato Vendite assicurate"
+  },
   "PoolOfSapphireGrace": {
     "name": "Stagno Grazia mistica"
   },
   "ShadedClarity": {
     "name": "Purezza ombrosa"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "Stoccaggio e trasporto del raccolto del tè"
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "Ispirazione ittica della raccolta del tè"
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "Mobiletto da tè multifunzione"
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "Ricetta della fragranza della raccolta del tè"
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "Fragranza dell'essiccazione al sole della raccolta del tè"
   },
   "WeatheredBambooFence": {
     "name": "Recinto in bambù consumato"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Sedia da tè Dolce brezza"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "Seduta in pietra del villaggio del tè Sicura, spaziosa e robusta"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "Torre della sentinella hilichurliana"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Tavolo da tè quadrato Benvenuto amichevole"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Tavolo di pietra del villaggio del tè Ozio culturale"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Bancarella espositiva dell'enoteca Vino a volontà"

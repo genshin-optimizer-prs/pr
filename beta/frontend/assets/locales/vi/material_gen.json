@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Phim Giải Trí"
   },
+  "Funds": {
+    "name": "Vốn"
+  },
   "Primogem": {
     "name": "Nguyên Thạch"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Xianyun"
   },
+  "Chiori": {
+    "name": "Chiori"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Chòm Sao Của Kamisato Ayaka"
   },
@@ -591,7 +597,7 @@
     "name": "Chòm Sao Của Ganyu"
   },
   "AlbedosStellaFortuna": {
-    "name": "Cung Mệnh Của Albedo"
+    "name": "Chòm Sao Của Albedo"
   },
   "DionasStellaFortuna": {
     "name": "Chòm Sao Của Diona"
@@ -612,10 +618,10 @@
     "name": "Chòm Sao Của Rosaria"
   },
   "HuTaosStellaFortuna": {
-    "name": "Cung Mệnh của Hu Tao"
+    "name": "Chòm Sao Của Hu Tao"
   },
   "KaedeharaKazuhasStellaFortuna": {
-    "name": "Cung Mệnh Kaedehara Kazuha"
+    "name": "Chòm Sao Của Kaedehara Kazuha"
   },
   "YanfeisStellaFortuna": {
     "name": "Chòm Sao Của Yanfei"
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Chòm Sao Của Xianyun"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Chòm Sao Của Chiori"
   },
   "GnosticHymnOldNotes": {
     "name": "Nhật Ký Hành Trình Trân Châu - Khởi Đầu"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Nhàn Rỗi Thưởng Trà"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Sushi Ngập Thịt Kỳ Lạ"
+  },
+  "MegaMeatySushi": {
+    "name": "Sushi Ngập Thịt"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Sushi Ngập Thịt Ngon"
+  },
+  "FashionShow": {
+    "name": "\"Buổi Trình Diễn Thời Trang\""
+  },
   "RecipeItem": {
     "name": "Đạo Cụ Công Thức"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Công Thức: Trầm Ngọc Trà Lộ"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Công Thức: Sushi Ngập Thịt"
   },
   "CraftedItems": {
     "name": "Sản Phẩm Ghép"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Ống Kính Quang Học Tập Bắn"
   },
+  "PerinheriI": {
+    "name": "Perinheri I"
+  },
+  "PerinheriII": {
+    "name": "Perinheri II"
+  },
   "HelpMePlease": {
     "name": "Cứu, Cứu Tôi!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Gói Hàng Của Nhà Leroy"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Tiệm Thời Trang Chioriya - Bóng Tối Phía Sau Trang Phục"
+  },
+  "LovelyLumitoile": {
+    "name": "Lumitoile Xinh Đẹp"
+  },
   "ForgottenKeyI": {
     "name": "Chìa Khóa Bỏ Quên I"
   },
   "ForgottenKeyII": {
     "name": "Chìa Khóa Bỏ Quên II"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Mở Rộng Canh Tác I"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Mở Rộng Canh Tác II"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Mở Rộng Canh Tác III"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Mở Rộng Canh Tác IV"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Mở Rộng Canh Tác V"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Mở Rộng Canh Tác VI"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Cải Tiến Nồi Giả Kim I"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Cải Tiến Nồi Giả Kim II"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Cải Tiến Nồi Giả Kim III"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Cải Tiến Nồi Giả Kim IV"
+  },
+  "AngledDropBottle": {
+    "name": "Lọ Giọt Nước Góc Cạnh"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Lọ Trái Tim Kỳ Diệu"
+  },
+  "TranquilBayBottle": {
+    "name": "Lọ Vùng Vịnh Yên Tĩnh"
+  },
+  "GorgeousGemBottle": {
+    "name": "Lọ Đá Quý Lộng Lẫy"
+  },
+  "ChonkyCatBottle": {
+    "name": "Lọ Mèo Mũm Mĩm"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Mùi Hương Của Cúc Cánh Quạt"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Lấp Lánh Như Tinh Điệp"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Ruy Băng Hoàn Hảo"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Lông Vũ Bay Đỏ Thắm"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Vàng Mạ Và Ngọc Bích"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Đồ Trang Trí Tiệm: Sĩ Khí Nở Rộ"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Đồ Trang Trí Tiệm: Không Khí Nở Rộ"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Đồ Trang Trí Tiệm: Thuốc Hiệu Quả Cao"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Đồ Trang Trí Tiệm: Thuốc Kỳ Diệu"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Đồ Trang Trí Tiệm: Hiệu Ứng Đa Sắc"
+  },
+  "SalesExpansionContract": {
+    "name": "Hợp Đồng Mở Rộng Đại Lý"
   },
   "XuanlianSacredWater": {
     "name": "Huyền Luyện Tiên Thủy"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Chìa Khóa Thành Cổ"
   },
+  "BeauteousBerylConch": {
+    "name": "Ốc Beryl Xinh Đẹp"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Hoa Romaritime Xinh Đẹp"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "Cá Cướp Từ Miệng Bồ Nông"
+  },
+  "FelixFelicium": {
+    "name": "Chúc Phúc May Mắn"
+  },
+  "LynettesEnvelope": {
+    "name": "Phong Thư Của Lynette"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Mở Rộng Canh Tác VII"
+  },
+  "Alchemeter": {
+    "name": "Công Cụ Nghiên Cứu Dược Liệu"
+  },
+  "OfficialScript": {
+    "name": "Kịch Bản Chính Thức"
+  },
+  "OriginalScript": {
+    "name": "\"Kịch Bản Gốc\""
+  },
+  "Manuscript": {
+    "name": "Bản Thảo"
   },
   "TearsAmongTheStars": {
     "name": "Giọt Lệ Giữa Những Vì Sao"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Ma Tinh Lấp Lánh Siêu Vô Địch"
   },
+  "ExaltedEarth": {
+    "name": "\"Vua Của Mặt Đất\""
+  },
   "FalconsDance": {
     "name": "Vũ Điệu Chim Ưng"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "Tuyển Tập - Chòm Sao Lấp Lánh"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Chiori - Tay Áo Trình Diễn"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Nhật Ký Hành Trình - Hóa Kỹ"
+  },
   "AnemoculusResonanceStone": {
     "name": "Đá Cộng Hưởng Phong Thần Đồng"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Tiên Linh Nhỏ Bé - Rực Rỡ"
   },
+  "Fateometer": {
+    "name": "\"Máy Chỉ Số Vận Mệnh\""
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Giải Thích: Đá Cộng Hưởng Phong Thần Đồng"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Cá Ngựa Ngọc Trai Ngàn Năm"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Fatui - Thuật Sĩ Cicin Lôi"
+  },
   "UndividedHeart": {
     "name": "Duy Thử Nhất Tâm"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Ngọc Trai Kiên Cố"
   },
+  "ASummationOfInterest": {
+    "name": "Lấy Thú Vị Làm Lý Lẽ"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Di Sản Hậu Duệ Biển Xưa"
+  },
+  "CountlessSightsToSee": {
+    "name": "Lưu Lại Cảnh Sắc"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Cicin Lôi Lấp Lánh"
+  },
   "MagicGuide": {
     "name": "Tóm Tắt Ma Pháp"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Dung Nhan Của Lão Binh"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Nghi Thức Dòng Chảy Vĩnh Hằng"
+  },
+  "GoldenTroupesReward": {
+    "name": "Phần Thưởng Đoàn Kịch Hoàng Kim"
+  },
   "LiyueHarborWharf": {
     "name": "Bến Cảng Liyue"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Silver Và Melus"
+  },
+  "FortressOfMeropide": {
+    "name": "Pháo Đài Meropide"
   },
   "ElementalResonanceWovenIce": {
     "name": "Cộng Hưởng Nguyên Tố: Băng Giao Thoa"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Hoa Sunyata"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "Ngày Kháng Chiến - Khoảnh Khắc Vỡ Mộng"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Nổ Định Hướng Có Kiểm Soát"
+  },
   "Origin": {
     "name": "Nguyên Sơ"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "Vực Đá Sâu - Sắt Cứng"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "Vực Đá Sâu - Pha Lê Lam"
   },
   "BeginnerPlayerBadge": {
     "name": "Huy Hiệu Bài Thủ Tập Sự"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Đèn Đá Thung Lũng - Ánh Đèn Vĩnh Cửu"
   },
+  "CiderLakelight": {
+    "name": "Ánh Sáng Hồ Rượu Trái Cây"
+  },
   "EfflorescentIllumination": {
     "name": "Ánh Sáng Trăm Hoa"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "Thảnh Thơi Giữa Cuộc Gặp Thường Ngày"
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Bàn Dài Phòng Trà - Hồi Ức Ngày Cũ"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Dụng Cụ Phòng Trà - Thẩm Trà Kiểm Chất"
+  },
   "BreezeBlessedBed": {
     "name": "Giường Bảo Vệ Êm Ái"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "Khoảnh Khắc Mừng Buổi Diễn Ngẫu Hứng"
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Bếp Lò Phòng Trà - Lửa Hay Nấu Khéo"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Bếp Lò Phòng Trà - Hấp Kỹ Sấy Chậm"
   },
   "SoftLoungeSofa": {
     "name": "Sofa Êm Ái"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "Giây Phút Thư Giãn Ở Trung Tâm"
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Băng Ghế Phòng Trà - Ghế Dài Giản Dị"
   },
   "NorthernStoneHearth": {
     "name": "Lò Sưởi Bằng Đá Bắc Địa"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Giá Nhạc Tiêu Chuẩn - \"Chỉnh Âm Chính Xác\""
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "Non Nước Đâm Chồi"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Dụng Cụ Phòng Trà - Phương Thức Trữ Nắng"
+  },
+  "TeahouseToolClearView": {
+    "name": "Dụng Cụ Phòng Trà - Ngắm Nhìn Quy Củ"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Thảm Mondstadt - Ngọn Lửa Nhiệt Tình"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Giá Ghi Chú Thông Dụng"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Dụng Cụ Phòng Trà - Nặng Hơn Một Xíu"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "Trà Êm Dịu Trong Ấm Đất Đỏ"
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "Thức Tỉnh Ở Vùng Đất Trí Tuệ"
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Nhà Ở Thung Lũng - Tầng Lầu Nhỏ Gọn"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Nhà Ở Thung Lũng - Phân Loại Tập Hợp"
+  },
+  "PortsFabulousFlavors": {
+    "name": "Trăm Hương Khói Bếp Trên Bến Cảng"
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Kiến Trúc Mondstadt Nhiều Mái Vòm"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Lều Trại Công Viên Vui Vẻ"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "\"Nơi Khéo Léo Thăng Hoa\""
   },
   "RitualShrine": {
     "name": "Đền Vĩnh Hằng"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Bảng Thông Báo Gỗ Thùy Hương"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Công Cụ Khéo Léo - Sinh Từ Khốn Khó"
+  },
   "BookshelfFreeReading": {
     "name": "Kệ Sách Báo - \"Tự Do Lấy Đọc\""
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Kệ Sách Báo - \"Hiệu Quả Tập Trung\""
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Tủ Rộng Khéo Léo - Hàng Lối Ngay Ngắn"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Kệ Khéo Léo - Chiến Lược Bán Chạy"
+  },
   "PoolOfSapphireGrace": {
     "name": "Hồ Linh Vân"
   },
   "ShadedClarity": {
     "name": "\"Sóng Nước Du Ảnh\""
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "Thu Hoạch Trà Và Vận Chuyển"
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "Thu Hoạch Trà Và Đánh Cá"
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "Thu Hoạch Trà Và Đồ Đa Dụng"
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "Thu Hoạch Trà Và Tạo Hương"
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "Thu Hoạch Trà Và Phơi Nắng"
   },
   "WeatheredBambooFence": {
     "name": "Hàng Rào Trúc Sờn Cũ"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Ghế Trà Thơm - Heo May Gió Mát"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "Ghế Đá Vườn Trà - Yên Bình Vững Chắc"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "Tháp Canh Hilichurl Hai Tầng"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Bàn Vuông Trà Thơm - Đón Khách Bốn Phương"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Bàn Đá Vườn Trà - Nhàn Nhã Thanh Lịch"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Tủ Rượu - Uống Cạn Trăm Ly"

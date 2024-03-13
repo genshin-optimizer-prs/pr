@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Плёнка-жетон"
   },
+  "Funds": {
+    "name": "Средства"
+  },
   "Primogem": {
     "name": "Камень Истока"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Сянь Юнь"
   },
+  "Chiori": {
+    "name": "Тиори"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Удача Камисато Аяки"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Удача Сянь Юнь"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Удача Тиори"
   },
   "GnosticHymnOldNotes": {
     "name": "Жемчужный гимн - Черновик"
@@ -1665,7 +1674,7 @@
     "name": "Легенда о Гео Архонте: Бог истории"
   },
   "TheWrathOfHaishan": {
-    "name": "«Гнев Хай Шань»"
+    "name": "«Гнев Хай Шаня»"
   },
   "RingOfRainingBladesI": {
     "name": "«Дождь клинков. Часть первая»"
@@ -5349,7 +5358,7 @@
     "name": "Святая вода"
   },
   "PopsTeas": {
-    "name": "Пиала чая"
+    "name": "Большая чаша"
   },
   "WolfhookJuice": {
     "name": "Сок из волчьих крюков"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Неспешный глоток"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Странные мегамясные суши"
+  },
+  "MegaMeatySushi": {
+    "name": "Мегамясные суши"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Вкусные мегамясные суши"
+  },
+  "FashionShow": {
+    "name": "«Модный показ»"
+  },
   "RecipeItem": {
     "name": "Ингредиенты"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Рецепт: Чайный напиток «Чэньюй»"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Рецепт: Мегамясные суши"
   },
   "CraftedItems": {
     "name": "Созданные Предметы"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Оптическая линза для тренировочной стрельбы"
   },
+  "PerinheriI": {
+    "name": "Переньери I"
+  },
+  "PerinheriII": {
+    "name": "Переньери II"
+  },
   "HelpMePlease": {
     "name": "Помогите!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Посылка для семьи Леруа"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Дом Тиори - Незримый гобелен тьмы"
+  },
+  "LovelyLumitoile": {
+    "name": "Красивый темнозвёздник"
+  },
   "ForgottenKeyI": {
     "name": "Забытый ключ I"
   },
   "ForgottenKeyII": {
     "name": "Забытый ключ II"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Расширение области культивации I"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Расширение области культивации II"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Расширение области культивации III"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Расширение области культивации IV"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Расширение области культивации V"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Расширение области культивации VI"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Улучшенный алхимический котёл I"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Улучшенный алхимический котёл II"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Улучшенный алхимический котёл III"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Улучшенный алхимический котёл IV"
+  },
+  "AngledDropBottle": {
+    "name": "Фигурный каплевидный флакон"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Прелестный сердцевидный флакон"
+  },
+  "TranquilBayBottle": {
+    "name": "Флакон «Тихая гавань»"
+  },
+  "GorgeousGemBottle": {
+    "name": "Роскошный флакон-самоцвет"
+  },
+  "ChonkyCatBottle": {
+    "name": "Флакон «Пухленькая кошка»"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Эстетика ветряной астры"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Лучезарность кристальной бабочки"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Идеальная подарочная лента"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Перо с красными лепестками"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Позолота и изумруд"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Декор магазина: Боевой запал"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Декор магазина: Праздничная атмосфера"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Декор магазина: Действенное зелье"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Декор магазина: Чудесное зелье"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Декор магазина: Красочные эффекты"
+  },
+  "SalesExpansionContract": {
+    "name": "Договор о дистрибьюторстве"
   },
   "XuanlianSacredWater": {
     "name": "Священная вода Сюаньлянь"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Древний городской ключ"
   },
+  "BeauteousBerylConch": {
+    "name": "Красивая берилловая ракушка"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Красивый ромарин"
+  },
   "FishSeizedFromAPelicansMouth": {
-    "name": "Рыба их клюва пеликана"
+    "name": "Рыба из клюва пеликана"
+  },
+  "FelixFelicium": {
+    "name": "Пожелание удачи"
+  },
+  "LynettesEnvelope": {
+    "name": "Конверт Линетт"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Расширение области культивации VII"
+  },
+  "Alchemeter": {
+    "name": "Алхиметр"
+  },
+  "OfficialScript": {
+    "name": "Официальный сценарий"
+  },
+  "OriginalScript": {
+    "name": "Оригинальный сценарий"
+  },
+  "Manuscript": {
+    "name": "Рукопись"
   },
   "TearsAmongTheStars": {
     "name": "Слёзы средь звёзд"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Супер-пупер непобедимый сияющий магический кристалл"
   },
+  "ExaltedEarth": {
+    "name": "Одухотворённая земля"
+  },
   "FalconsDance": {
     "name": "Танец сокола"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "The Stellar Moments"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Развевающиеся рукава"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Мистическое скопление"
+  },
   "AnemoculusResonanceStone": {
     "name": "Камень эха анемокула"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Малая фея Великолепие"
   },
+  "Fateometer": {
+    "name": "«Судьбометр»"
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Инструкции: Камень эха анемокула"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Морской конёк тысячелетней жемчужины"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Фатуи: Маг Электро цицинов"
+  },
   "UndividedHeart": {
     "name": "Неразделённое сердце"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Твердеющий перламутр"
   },
+  "ASummationOfInterest": {
+    "name": "Любопытство как суть"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Наследник древнего моря"
+  },
+  "CountlessSightsToSee": {
+    "name": "Сотни пейзажей"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Мерцание Электро цицина"
+  },
   "MagicGuide": {
     "name": "Руководство по магии"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Лик старого солдата"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Обряд вечного течения"
+  },
+  "GoldenTroupesReward": {
+    "name": "Награда Золотой труппы"
+  },
   "LiyueHarborWharf": {
     "name": "Гавань Ли Юэ"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Сильвер и Мелус"
+  },
+  "FortressOfMeropide": {
+    "name": "Крепость Меропид"
   },
   "ElementalResonanceWovenIce": {
     "name": "Элементальный резонанс: Переплетение Крио"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Цветок шуньяты"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "День сопротивления: Разбитые мечты"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Контролируемый направленный взрыв"
+  },
   "Origin": {
     "name": "Изначальный"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "Разлом: Штурм"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "Разлом: Топаз"
   },
   "BeginnerPlayerBadge": {
     "name": "Значок Новичка"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Каменный фонарь в долине: Неугасающее пламя"
   },
+  "CiderLakelight": {
+    "name": "«Свет Сидрового озера»"
+  },
   "EfflorescentIllumination": {
     "name": "Флуоресцентное освещение"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "«Радость обычных посиделок»"
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Чайный стол: Предметы ностальгии"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Чайная утварь: Тончайший контроль"
+  },
   "BreezeBlessedBed": {
     "name": "Кровать благословения ветра"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "«Праздничная импровизация»"
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Чайная печь: Сильная обжарка"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Чайная печь: Слабый огонь"
   },
   "SoftLoungeSofa": {
     "name": "Мягкий диван для гостиной"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "«Минута отдыха на центральной станции»"
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Мебель чайного дома: Простая скамья"
   },
   "NorthernStoneHearth": {
     "name": "Северный каменный очаг"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Стандартный пюпитр: Точная настройка"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "«Свежие побеги, собранные средь гор и рек»"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Чайная утварь: Сухое хранилище"
+  },
+  "TeahouseToolClearView": {
+    "name": "Чайная утварь: Хороший обзор"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Мондштадтский коврик: Пылающий энтузиазм"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Универсальный держатель для заметок"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Чайная утварь: До последнего листочка"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "«Нежный чай в сосуде из красной глины»"
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "«Постижения из страны мудрости»"
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Резиденция в долине: Зодческая точность"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Резиденция в долине: Полный порядок"
+  },
+  "PortsFabulousFlavors": {
+    "name": "«Ароматы торговых путей»"
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Арочный дом Мондштадта"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Праздничная палатка парка"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "«Место искусного вознесения»"
   },
   "RitualShrine": {
     "name": "Церемониальный алтарь"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Доска объявлений из ароматного кедра"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Искусная утварь: Рождённый в горечи"
+  },
   "BookshelfFreeReading": {
     "name": "Книжная полка: Свободное чтение"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Книжная полка: Эффект фокусировки"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Искусный шкаф: Рациональная организация"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Искусная полка: Торговая стратегия"
+  },
   "PoolOfSapphireGrace": {
     "name": "Озеро сапфирной милости"
   },
   "ShadedClarity": {
     "name": "Тени на прозрачной воде"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "«Чайный урожай: Хранение и перевозка»"
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "«Чайный урожай: Рыбацкое вдохновение»"
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "«Незаменимая вещь при сборе чайного урожая»"
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "«Чайный урожай: Формула вкуса»"
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "«Чайный урожай: Солнечный аромат»"
   },
   "WeatheredBambooFence": {
     "name": "Ветхая бамбуковая ограда"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Стул для чаепитий: Прохладный ветерок"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "«Скамья чайной деревни: Спокойствие и долговечность»"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "Двухъярусная караульная башня хиличурлов"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Квадратный чайный столик: Дружеский приём"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Деревенский чайный столик: Культурный отдых"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Витрина для вина: Сколько душе угодно"

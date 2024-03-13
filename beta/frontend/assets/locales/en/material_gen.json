@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Film for Fun"
   },
+  "Funds": {
+    "name": "Funds"
+  },
   "Primogem": {
     "name": "Primogem"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Xianyun"
   },
+  "Chiori": {
+    "name": "Chiori"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Kamisato Ayaka's Stella Fortuna"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Xianyun's Stella Fortuna"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Chiori's Stella Fortuna"
   },
   "GnosticHymnOldNotes": {
     "name": "Gnostic Hymn - Old Notes"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Yummy Yum Cha"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Suspicious Mega-Meaty Sushi"
+  },
+  "MegaMeatySushi": {
+    "name": "Mega-Meaty Sushi"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Delicious Mega-Meaty Sushi"
+  },
+  "FashionShow": {
+    "name": "\"Fashion Show\""
+  },
   "RecipeItem": {
     "name": "Recipe Item"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Recipe: Chenyu Brew"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Recipe: Mega-Meaty Sushi"
   },
   "CraftedItems": {
     "name": "Crafted Items"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Shooting Practice Optical Lenses"
   },
+  "PerinheriI": {
+    "name": "Perinheri (I)"
+  },
+  "PerinheriII": {
+    "name": "Perinheri (II)"
+  },
   "HelpMePlease": {
     "name": "Help Me, Please!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Package for the Leroy Family"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Chioriya Boutique - Darkness Disguised Behind a Facade of Fashion"
+  },
+  "LovelyLumitoile": {
+    "name": "Lovely Lumitoile"
+  },
   "ForgottenKeyI": {
     "name": "Forgotten Key (I)"
   },
   "ForgottenKeyII": {
     "name": "Forgotten Key (II)"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Cultivation Area Expansion (I)"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Cultivation Area Expansion (II)"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Cultivation Area Expansion (III)"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Cultivation Area Expansion (IV)"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Cultivation Area Expansion (V)"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Cultivation Area Expansion (VI)"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Improved Alchemy Cauldron (I)"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Improved Alchemy Cauldron (II)"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Improved Alchemy Cauldron (III)"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Improved Alchemy Cauldron (IV)"
+  },
+  "AngledDropBottle": {
+    "name": "Angled Drop Bottle"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Heartstopping Heart Bottle"
+  },
+  "TranquilBayBottle": {
+    "name": "Tranquil Bay Bottle"
+  },
+  "GorgeousGemBottle": {
+    "name": "Gorgeous Gem Bottle"
+  },
+  "ChonkyCatBottle": {
+    "name": "Chonky Cat Bottle"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Windwheel Aster's Aroma"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Resplendent as a Crystalfly"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Perfect Gift Ribbon"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Raspberry-Red Flying Flower Feather"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Gold Gild and Emerald"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Shop Decoration: Blooming Morale"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Shop Decoration: Blooming Atmosphere"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Shop Decoration: Potent Potions"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Shop Decoration: Portentous Potions"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Shop Decoration: Prismatic Effects"
+  },
+  "SalesExpansionContract": {
+    "name": "Sales Expansion Contract"
   },
   "XuanlianSacredWater": {
     "name": "Xuanlian Sacred Water"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Ancient City Key"
   },
+  "BeauteousBerylConch": {
+    "name": "Beauteous Beryl Conch"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Ravishing Romaritime Flower"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "Fish Seized From a Pelican's Mouth"
+  },
+  "FelixFelicium": {
+    "name": "Felix Felicium"
+  },
+  "LynettesEnvelope": {
+    "name": "Lynette's Envelope"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Cultivation Area Expansion (VII)"
+  },
+  "Alchemeter": {
+    "name": "Alchemeter"
+  },
+  "OfficialScript": {
+    "name": "Official Script"
+  },
+  "OriginalScript": {
+    "name": "\"Original Script\""
+  },
+  "Manuscript": {
+    "name": "Manuscript"
   },
   "TearsAmongTheStars": {
     "name": "Tears Among the Stars"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Super-Duper Invincible Shining Sparkly Magic Crystal"
   },
+  "ExaltedEarth": {
+    "name": "\"Exalted Earth\""
+  },
   "FalconsDance": {
     "name": "Falcon's Dance"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "Album: The Stellar Moments"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Chiori: Spectacular Sleeves"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Travel Notes: Arcane Amassing"
+  },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus Resonance Stone"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Mini Seelie: Brilliance"
   },
+  "Fateometer": {
+    "name": "\"Fateometer\""
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Instructions: Anemoculus Resonance Stone"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Millennial Pearl Seahorse"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Fatui Electro Cicin Mage"
+  },
   "UndividedHeart": {
     "name": "Undivided Heart"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Pearl Solidification"
   },
+  "ASummationOfInterest": {
+    "name": "A Summation of Interest"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Heir to the Ancient Sea's Authority"
+  },
+  "CountlessSightsToSee": {
+    "name": "Countless Sights to See"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Electro Cicin's Flicker"
+  },
   "MagicGuide": {
     "name": "Magic Guide"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Veteran's Visage"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Tome of the Eternal Flow"
+  },
+  "GoldenTroupesReward": {
+    "name": "Golden Troupe's Reward"
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Harbor Wharf"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Silver and Melus"
+  },
+  "FortressOfMeropide": {
+    "name": "Fortress of Meropide"
   },
   "ElementalResonanceWovenIce": {
     "name": "Elemental Resonance: Woven Ice"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Sunyata Flower"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "Day of Resistance: Moment of Shattered Dreams"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Controlled Directional Blast"
+  },
   "Origin": {
     "name": "Origin"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "The Chasm: Solid Iron"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "The Chasm: Blue Crystal"
   },
   "BeginnerPlayerBadge": {
     "name": "Beginner Player Badge"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Valley Stone Lamp: Everbright Light"
   },
+  "CiderLakelight": {
+    "name": "\"Cider Lakelight\""
+  },
   "EfflorescentIllumination": {
     "name": "Efflorescent Illumination"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "\"The Leisure of Daily Meetings\""
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Teahouse Long Table: Tools of Nostalgia"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Teahouse Tool: Qualitea Review"
+  },
   "BreezeBlessedBed": {
     "name": "Breeze-Blessed Bed"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "\"Celebration of an Ad-Hoc Performance\""
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Teahouse Stove: A Capital Cook"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Teahouse Stove: Slow Steaming"
   },
   "SoftLoungeSofa": {
     "name": "Soft Lounge Sofa"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "\"Momentary Rest in the Central Hub\""
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Teahouse Bench: Simple Seating"
   },
   "NorthernStoneHearth": {
     "name": "Northern Stone Hearth"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Standard Music Stand: Accurate Tuning"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "\"Fresh Buds From Mountains and Waters\""
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Teahouse Tool: Dry Storage"
+  },
+  "TeahouseToolClearView": {
+    "name": "Teahouse Tool: Clear View"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Mondstadt Rug: Crimson Ardor"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Common-Use Note Holder"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Teahouse Tool: Miniscule Misses Make a Mile"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "\"Mellow Tea in a Red Clay Pot\""
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "\"Realizations from the Land of Wisdom\""
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Valley Residence: Measured Building"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Valley Residence: It's Classified"
+  },
+  "PortsFabulousFlavors": {
+    "name": "\"Port's Fabulous Flavors\""
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Multi-Arched Mondstadt Building"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Amusement Park Celebration Tent"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "\"Site of Artful Ascension\""
   },
   "RitualShrine": {
     "name": "Ritual Shrine"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Fragrant Cedar Wood Announcement Board"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Cleverly Crafted Contraption: Born in Blessed Bitterness"
+  },
   "BookshelfFreeReading": {
     "name": "Bookshelf: Free Reading"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Bookshelf: Focused Effect"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Cleverly Crafted Cabinet: Regular Organization"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Cleverly Crafted Shelf: Hot Sales Strategy"
+  },
   "PoolOfSapphireGrace": {
     "name": "Pool of Sapphire Grace"
   },
   "ShadedClarity": {
     "name": "Shaded Clarity"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "\"Tea Harvest's Stockpiling and Transport\""
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "\"Tea Harvest's Fishery Inspiration\""
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "\"Tea Harvest's Multifunction Rack\""
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "\"Tea Harvest's Formula for Fragrance\""
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "\"Tea Harvest's Sun-Dried Fragrance\""
   },
   "WeatheredBambooFence": {
     "name": "Weathered Bamboo Fence"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Tea Chair: Cool Breeze"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "\"Tea Village Stone Bench: Safe, Spacious, Sturdy\""
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "Two-Story Hilichurl Sentry Tower"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Square Tea Table: Friendly Welcome"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Tea Village Stone Table: Cultured Leisure"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Wine Shop Display Counter: To Your Heart's Content"

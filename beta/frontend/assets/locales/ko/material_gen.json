@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "금빛 영화 필름"
   },
+  "Funds": {
+    "name": "자금"
+  },
   "Primogem": {
     "name": "원석"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "한운"
   },
+  "Chiori": {
+    "name": "치오리"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "카미사토 아야카의 운명의 별"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "한운의 운명의 별"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "치오리의 운명의 별"
   },
   "GnosticHymnOldNotes": {
     "name": "진주 기행·초안"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "느긋하게 차 한잔"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "이상한 고기 듬뿍 초밥"
+  },
+  "MegaMeatySushi": {
+    "name": "고기 듬뿍 초밥"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "맛있는 고기 듬뿍 초밥"
+  },
+  "FashionShow": {
+    "name": "「패션쇼」"
+  },
   "RecipeItem": {
     "name": "레시피 아이템"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "레시피: 침옥 차 이슬"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "레시피: 고기 듬뿍 초밥"
   },
   "CraftedItems": {
     "name": "합성 산물"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "「사격 훈련용 광학 렌즈」"
   },
+  "PerinheriI": {
+    "name": "페룬에리·1권"
+  },
+  "PerinheriII": {
+    "name": "페룬에리·2권"
+  },
   "HelpMePlease": {
     "name": "날 구해줘!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "르로아 일가의 소포"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "「치오리 부티크」——원단 아래의 어둠"
+  },
+  "LovelyLumitoile": {
+    "name": "예쁜 형광별"
+  },
   "ForgottenKeyI": {
     "name": "분실된 열쇠·첫 번째"
   },
   "ForgottenKeyII": {
     "name": "분실된 열쇠·두 번째"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "재배 구역 확장·I"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "재배 구역 확장·II"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "재배 구역 확장·III"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "재배 구역 확장·IV"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "재배 구역 확장·V"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "재배 구역 확장·VI"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "연금솥 개선·I"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "연금솥 개선·II"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "연금솥 개선·III"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "연금솥 개선·IV"
+  },
+  "AngledDropBottle": {
+    "name": "각진 물방울 병"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "두근두근 하트 병"
+  },
+  "TranquilBayBottle": {
+    "name": "고요한 물굽이 병"
+  },
+  "GorgeousGemBottle": {
+    "name": "화려한 보석 병"
+  },
+  "ChonkyCatBottle": {
+    "name": "뚠뚠 고양이 병"
+  },
+  "WindwheelAstersAroma": {
+    "name": "풍차 국화의 숨결"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "영롱한 수정 나비"
+  },
+  "PerfectGiftRibbon": {
+    "name": "완벽한 포장 리본"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "장밋빛 깃털"
+  },
+  "GoldGildAndEmerald": {
+    "name": "황금과 푸른 보석"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "가게 장식-「꽃꽃한 기세」"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "가게 장식-「꽃꽃한 분위기」"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "가게 장식-「고효율 포션」"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "가게 장식-「기묘한 포션」"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "가게 장식-「다채로운 효과」"
+  },
+  "SalesExpansionContract": {
+    "name": "유통 확장 계약서"
   },
   "XuanlianSacredWater": {
     "name": "「현련 선인의 물」"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "옛 성벽의 열쇠"
   },
+  "BeauteousBerylConch": {
+    "name": "예쁜 푸른 수정 소라"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "예쁜 바다 이슬 꽃"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "「사다새」의 입속에서 뺏은 물고기"
+  },
+  "FelixFelicium": {
+    "name": "「행운의 축복」"
+  },
+  "LynettesEnvelope": {
+    "name": "리넷의 봉투"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "재배 구역 확장·VII"
+  },
+  "Alchemeter": {
+    "name": "약재 분석기"
+  },
+  "OfficialScript": {
+    "name": "정식 대본"
+  },
+  "OriginalScript": {
+    "name": "「원래 대본」"
+  },
+  "Manuscript": {
+    "name": "원고"
   },
   "TearsAmongTheStars": {
     "name": "뭇별 사이의 눈물"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "「반짝이는 슈퍼 무적 마법 수정」"
   },
+  "ExaltedEarth": {
+    "name": "「대지의 왕」"
+  },
   "FalconsDance": {
     "name": "송골매의 춤"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "앨범·빛나는 뭇별"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "치오리·펼친 소매"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "기행·응축된 신비"
+  },
   "AnemoculusResonanceStone": {
     "name": "바람 신의 눈동자 공명석"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "작은 선령·찬란한 빛"
   },
+  "Fateometer": {
+    "name": "「운명 계시기」"
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "설명서: 바람 신의 눈동자 공명석"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "천년 묵은 진주 기린"
   },
+  "FatuiElectroCicinMage": {
+    "name": "우인단·번개 치친 술사"
+  },
   "UndividedHeart": {
     "name": "단 하나의 마음"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "진주 응고"
   },
+  "ASummationOfInterest": {
+    "name": "흥미 추구의 요지"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "생존한 고대바다의 계승자"
+  },
+  "CountlessSightsToSee": {
+    "name": "배송 중의 경치"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "반짝이는 번개 치친"
+  },
   "MagicGuide": {
     "name": "마도 서론"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "노병의 얼굴"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "영원히 샘솟는 법전"
+  },
+  "GoldenTroupesReward": {
+    "name": "황금 극단의 보상"
+  },
   "LiyueHarborWharf": {
     "name": "리월항"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "실버와 마르시악"
+  },
+  "FortressOfMeropide": {
+    "name": "메로피드 요새"
   },
   "ElementalResonanceWovenIce": {
     "name": "원소 공명: 뒤엉킨 얼음"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "순야타 꽃"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "투쟁의 날·깨진 꿈의 순간"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "제어 가능한 위험 제거용 지향 폭발"
+  },
   "Origin": {
     "name": "태초"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "층암거연·강철"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "층암거연·짙푸른 결정"
   },
   "BeginnerPlayerBadge": {
     "name": "초급 플레이어 배지"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "수려한 협곡의 석등-「꺼지지 않는 촛불」"
   },
+  "CiderLakelight": {
+    "name": "「시드르 호숫빛」"
+  },
   "EfflorescentIllumination": {
     "name": "「백만 꽃잎의 빛」"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "「일상 모임의 편안함」"
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "차 공방의 긴 탁자-「소박한 추억」"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "차 공방의 도구-「품질 심사」"
+  },
   "BreezeBlessedBed": {
     "name": "바람의 가호를 받는 침대"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "「즐거운 즉흥 공연 시간」"
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "차 공방의 부뚜막-「절묘한 화력」"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "차 공방의 부뚜막-「세심한 가공」"
   },
   "SoftLoungeSofa": {
     "name": "푹신한 접견실 소파"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "「중추의 일시적 여유」"
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "차 공방의 긴 의자-「소탈한 착석」"
   },
   "NorthernStoneHearth": {
     "name": "북대륙 돌 벽난로"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "표준 보면대-「정확한 조율」"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "「산수로 끓인 새싹」"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "차 공방의 도구-「건조법」"
+  },
+  "TeahouseToolClearView": {
+    "name": "차 공방의 도구-「관찰법」"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "몬드풍 카펫-「정열의 빨강」"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "범용형 메모 걸이"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "차 공방의 도구-「엄격한 측정」"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "「붉은 주전자 속 진한 차」"
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "「탁견의 땅의 불변」"
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "수려한 협곡의 가옥-「촌척 누각」"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "수려한 협곡의 가옥-「분류」"
+  },
+  "PortsFabulousFlavors": {
+    "name": "「상업 항구의 백미」"
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "다중 아치문 몬드풍 건축물"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "「낙원 축제 텐트」"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "「연금술과 경영학의 전당」"
   },
   "RitualShrine": {
     "name": "「항고의 감실」"
@@ -14760,7 +14988,7 @@
     "name": "온천 나무판자-「안정」"
   },
   "HotSpringFoyerShelterFromTheCold": {
-    "name": "온천 현관-「추위 피하기」"
+    "name": "온천 입구-「추위 피하기」"
   },
   "FishermansFence": {
     "name": "「어부의 경계벽」"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "수향나무 처마 게시판"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "연금용 도구-「쓰디쓴 탄생」"
+  },
   "BookshelfFreeReading": {
     "name": "출판물 진열대-「자유 접근」"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "출판물 진열대-「초점 효과」"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "연금용 수납장-「규칙적인 배열」"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "연금용 진열대-「열띤 판매 전략」"
+  },
   "PoolOfSapphireGrace": {
     "name": "「신비한 구름 연못」"
   },
   "ShadedClarity": {
     "name": "「투명한 물에 비친 그림자」"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "「수확한 차의 저장과 운송」"
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "「수확한 차의 어구 재활용」"
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "「수확한 차의 훌륭한 도구」"
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "「수확한 차의 향기로운 비법」"
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "「수확한 차의 햇살 향기」"
   },
   "WeatheredBambooFence": {
     "name": "풍파를 겪은 대나무 울타리"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "명차 의자-「상쾌한 청풍」"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "차 마을의 돌 의자-「야무진 편안함」"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "츄츄족 이층 경계탑"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "명차 탁자-「사방 손님맞이」"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "차 마을의 돌 탁자-「한적한 휴식」"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "술 진열대-「백 잔의 술」"

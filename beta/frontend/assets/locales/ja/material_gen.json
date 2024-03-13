@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "ハッピーフィルム"
   },
+  "Funds": {
+    "name": "資金"
+  },
   "Primogem": {
     "name": "原石"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "閑雲"
   },
+  "Chiori": {
+    "name": "千織"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "神里綾華の星屑"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "閑雲の星屑"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "千織の星屑"
   },
   "GnosticHymnOldNotes": {
     "name": "天空紀行·原稿"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "飲茶しようぜ！"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "微妙なお肉たっぷり寿司"
+  },
+  "MegaMeatySushi": {
+    "name": "お肉たっぷり寿司"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "美味しそうなお肉たっぷり寿司"
+  },
+  "FashionShow": {
+    "name": "「ファッションショー」"
+  },
   "RecipeItem": {
     "name": "レシピアイテム"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "レシピ：沈玉茶"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "レシピ：お肉たっぷり寿司"
   },
   "CraftedItems": {
     "name": "合成産物"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "「射撃訓練光学レンズ」"
   },
+  "PerinheriI": {
+    "name": "ペリンヘリ·1"
+  },
+  "PerinheriII": {
+    "name": "ペリンヘリ·2"
+  },
   "HelpMePlease": {
     "name": "助けておくれ！"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "ルロワ家の小包"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "「千織屋」——布地の下に隠された闇"
+  },
+  "LovelyLumitoile": {
+    "name": "きれいなルエトワール"
+  },
   "ForgottenKeyI": {
     "name": "落とした鍵·その一"
   },
   "ForgottenKeyII": {
     "name": "落とした鍵·その二"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "栽培エリア拡張·Ⅰ"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "栽培エリア拡張·Ⅱ"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "栽培エリア拡張·Ⅲ"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "栽培エリア拡張·Ⅳ"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "栽培エリア拡張·Ⅴ"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "栽培エリア拡張·Ⅵ"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "錬金釜改良·Ⅰ"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "錬金釜改良·Ⅱ"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "錬金釜改良·Ⅲ"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "錬金釜改良·Ⅳ"
+  },
+  "AngledDropBottle": {
+    "name": "雫型の角ばった瓶"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "きゅんきゅんハート瓶"
+  },
+  "TranquilBayBottle": {
+    "name": "のどかなベイサイドの瓶"
+  },
+  "GorgeousGemBottle": {
+    "name": "華麗な宝石瓶"
+  },
+  "ChonkyCatBottle": {
+    "name": "ポチャポチャにゃん瓶"
+  },
+  "WindwheelAstersAroma": {
+    "name": "風車アスターの香り"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "晶蝶の輝き"
+  },
+  "PerfectGiftRibbon": {
+    "name": "パーフェクトギフトリボン"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "ヴァルベリーレッドのそよぐ羽"
+  },
+  "GoldGildAndEmerald": {
+    "name": "メッキとサファイア"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "ショップ装飾品-「花々しき士気」"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "ショップ装飾品-「花々しき雰囲気」"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "ショップ装飾品-「よく効く薬」"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "ショップ装飾品-「不思議な薬」"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "ショップ装飾品-「プリズマティック効果」"
+  },
+  "SalesExpansionContract": {
+    "name": "卸売業者契約書"
   },
   "XuanlianSacredWater": {
     "name": "「懸練の仙水」"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "古い石垣の鍵"
   },
+  "BeauteousBerylConch": {
+    "name": "きれいな蒼晶螺"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "きれいなロマリタイムフラワー"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "「ペリカン」の口から奪った魚"
+  },
+  "FelixFelicium": {
+    "name": "「幸運の祝福」"
+  },
+  "LynettesEnvelope": {
+    "name": "リネットの封筒"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "栽培エリア拡張·Ⅶ"
+  },
+  "Alchemeter": {
+    "name": "薬材研究機"
+  },
+  "OfficialScript": {
+    "name": "正式な台本"
+  },
+  "OriginalScript": {
+    "name": "「元の台本」"
+  },
+  "Manuscript": {
+    "name": "手書き原稿"
   },
   "TearsAmongTheStars": {
     "name": "星間の涙"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "「スーパーキラキラ無敵魔晶」"
   },
+  "ExaltedEarth": {
+    "name": "「大地の王」"
+  },
   "FalconsDance": {
     "name": "鷹の舞"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "アルバム·輝く星々"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "千織·展袂"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "紀行·魔萃"
+  },
   "AnemoculusResonanceStone": {
     "name": "風神の瞳の共鳴石"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "小さな仙霊·燦光"
   },
+  "Fateometer": {
+    "name": "「運命指示器」"
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "説明：風神の瞳の共鳴石"
   },
@@ -11847,7 +12000,7 @@
     "name": "説明：水神の瞳の共鳴石"
   },
   "DiagramHydroTreasureCompass": {
-    "name": "鍛造図：水のトレジャーコンパス"
+    "name": "図譜：水のトレジャーコンパス"
   },
   "FormulaPureWater": {
     "name": "レシピ：「純潔の水」"
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "千年真珠の海駿"
   },
+  "FatuiElectroCicinMage": {
+    "name": "ファデュイ·雷蛍術師"
+  },
   "UndividedHeart": {
     "name": "唯一の心"
   },
@@ -12006,7 +12162,7 @@
     "name": "抵天の雷罰"
   },
   "ChaoticEntropy": {
-    "name": "混元熵增論"
+    "name": "混元熵増論"
   },
   "LandsOfDandelion": {
     "name": "蒲公英の国土"
@@ -12187,6 +12343,18 @@
   },
   "PearlSolidification": {
     "name": "パール固化"
+  },
+  "ASummationOfInterest": {
+    "name": "好奇を以て要義と為す"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "古海継嗣の権威"
+  },
+  "CountlessSightsToSee": {
+    "name": "道中百景心得たり"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "雷蛍閃光"
   },
   "MagicGuide": {
     "name": "魔導緒論"
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "老兵の容貌"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "久遠流転の大典"
+  },
+  "GoldenTroupesReward": {
+    "name": "黄金の劇団の褒賞"
+  },
   "LiyueHarborWharf": {
     "name": "璃月港口"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "シルヴァとマルシラック"
+  },
+  "FortressOfMeropide": {
+    "name": "メロピデ要塞"
   },
   "ElementalResonanceWovenIce": {
     "name": "元素共鳴：交錯の氷"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "シューニャター花"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "抗争の日·夢砕ける時"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "可制御性無害化型指向性爆発"
+  },
   "Origin": {
     "name": "原初"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "層岩巨淵·堅鉄"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "層岩巨淵·藍晶"
   },
   "BeginnerPlayerBadge": {
     "name": "初心者プレイヤーメダル"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "谷の灯篭-「常明の灯火」"
   },
+  "CiderLakelight": {
+    "name": "「シードル湖の光」"
+  },
   "EfflorescentIllumination": {
     "name": "「花葉百相の光」"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "「日々の集いと団欒」"
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "茶房の長机-「簡素な思い出」"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "茶房の道具-「茶葉の仕分け」"
+  },
   "BreezeBlessedBed": {
     "name": "そよ風に守られたベッド"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "「楽しきエチュード」"
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "茶房の竈-「妙なる調理」"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "茶房の竈-「細やかな焙煎」"
   },
   "SoftLoungeSofa": {
     "name": "柔らかいラウンジソファ"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "「中央部の長閑なひととき」"
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "茶房の長椅子-「粗朴な長椅子」"
   },
   "NorthernStoneHearth": {
     "name": "北地の石造暖炉"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "スタンダードな譜面台-「正確な調律」"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "「山水を汲みて若葉を煮る」"
+  },
+  "TeahouseToolDryStorage": {
+    "name": "茶房の道具-「保存の良法」"
+  },
+  "TeahouseToolClearView": {
+    "name": "茶房の道具-「展示の道」"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "モンドカーペット-「赤い熱意」"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "汎用型メモラック"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "茶房の道具-「毫厘の重さ」"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "「朱泥に揺らぐ濃茶」"
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "「卓識の地の明察」"
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "谷の住宅-「寸尺の楼」"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "谷の住宅-「鑑別」"
+  },
+  "PortsFabulousFlavors": {
+    "name": "「商港の炊煙と百味」"
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "アーチ門を複数持つモンド建築"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "「楽園の喜びのテント」"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "「すばらしい錬金場」"
   },
   "RitualShrine": {
     "name": "「戒めの祠」"
@@ -14739,16 +14967,16 @@
     "name": "神社回廊-「浅赤凝望」"
   },
   "EstateCourtyardWallStoneguard": {
-    "name": "垣屋院墙-「崩石の御」"
+    "name": "垣屋院墻-「崩石の御」"
   },
   "EstateCourtyardWallHarmoniousCorner": {
-    "name": "垣屋院墙-「柔睦一隅」"
+    "name": "垣屋院墻-「柔睦一隅」"
   },
   "EstateCourtyardWallHiddenBoundary": {
-    "name": "垣屋院墙-「庭中隠際」"
+    "name": "垣屋院墻-「庭中隠際」"
   },
   "EstateWallCornerOldCityPalisade": {
-    "name": "垣屋墙隅-「旧市町墙」"
+    "name": "垣屋墻隅-「旧市町墻」"
   },
   "HotSpringFoldingScreenModeration": {
     "name": "温泉屏風-「至適」"
@@ -14784,7 +15012,7 @@
     "name": "住居の中庭の門-「林で口ずさんで」"
   },
   "DomedWallTheBirdsSang": {
-    "name": "住居の院墙-「百鳥の合唱」"
+    "name": "住居の院墻-「百鳥の合唱」"
   },
   "VisionOfTheCityOfWisdom": {
     "name": "「知恵の都の展望」"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "垂香材の雨よけ告知板"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "匠の道具-「苦味から生まれるもの」"
+  },
   "BookshelfFreeReading": {
     "name": "ブックラック-「ご自由にお読みください」"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "ブックラック-「フォーカス効果」"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "匠の収納棚-「秩序整然」"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "匠の陳列棚-「人気商品戦略」"
+  },
   "PoolOfSapphireGrace": {
     "name": "「霊沼雲池」"
   },
   "ShadedClarity": {
     "name": "「清波游影」"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "「茶穫の貯蔵と運搬」"
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "「魚がくれたインスピレーション」"
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "「茶穫の多目的道具」"
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "「茶穫の芳香の秘訣」"
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "「茶穫の陽の香り」"
   },
   "WeatheredBambooFence": {
     "name": "長い年月を経た竹の柵"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "茶香の椅子-「清風悠然」"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "茶荘の石の椅子-「従容たる安寧」"
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "ヒルチャールの二階建て監視塔"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "番茶香る卓-「四方迎客」"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "茶荘の石机-「優雅な趣」"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "酒屋の商品棚-「百杯飲み」"

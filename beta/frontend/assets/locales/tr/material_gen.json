@@ -188,6 +188,9 @@
   "FilmForFun": {
     "name": "Eğlencelik Film"
   },
+  "Funds": {
+    "name": "Sermaye"
+  },
   "Primogem": {
     "name": "Köken Taşı"
   },
@@ -515,6 +518,9 @@
   "Xianyun": {
     "name": "Xianyun"
   },
+  "Chiori": {
+    "name": "Chiori"
+  },
   "KamisatoAyakasStellaFortuna": {
     "name": "Kamisato Ayaka'nın Yaşam Yıldızı"
   },
@@ -754,6 +760,9 @@
   },
   "XianyunsStellaFortuna": {
     "name": "Xianyun'un Yaşam Yıldızı"
+  },
+  "ChiorisStellaFortuna": {
+    "name": "Chiori'nin Yaşam Yıldızı"
   },
   "GnosticHymnOldNotes": {
     "name": "Aydınlanma Şarkısı - Eski Notalar"
@@ -6896,6 +6905,18 @@
   "YummyYumCha": {
     "name": "Yumulmalık Yum Cha"
   },
+  "SuspiciousMegaMeatySushi": {
+    "name": "Etine Dolgun Suşi (Tuhaf)"
+  },
+  "MegaMeatySushi": {
+    "name": "Etine Dolgun Suşi"
+  },
+  "DeliciousMegaMeatySushi": {
+    "name": "Etine Dolgun Suşi (Lezzetli)"
+  },
+  "FashionShow": {
+    "name": "\"Defile\""
+  },
   "RecipeItem": {
     "name": "Yemek Malzemesi"
   },
@@ -7468,6 +7489,9 @@
   },
   "RecipeChenyuBrew": {
     "name": "Tarif: Chenyu Çayı"
+  },
+  "RecipeMegaMeatySushi": {
+    "name": "Tarif: Etine Dolgun Suşi"
   },
   "CraftedItems": {
     "name": "Üretilen Malzemeler"
@@ -10004,6 +10028,12 @@
   "ShootingPracticeOpticalLenses": {
     "name": "Atış Talimi Optik Lensi"
   },
+  "PerinheriI": {
+    "name": "Perinheri (I)"
+  },
+  "PerinheriII": {
+    "name": "Perinheri (II)"
+  },
   "HelpMePlease": {
     "name": "Yardım Et Lütfen!"
   },
@@ -10016,11 +10046,95 @@
   "PackageForTheLeroyFamily": {
     "name": "Leroy Ailesine Paket"
   },
+  "ChioriyaBoutiqueDarknessDisguisedBehindAFacadeOfFashion": {
+    "name": "Butik Chioriya - Moda Dünyasının Karanlık Yüzü"
+  },
+  "LovelyLumitoile": {
+    "name": "Tatlı Tan Yıldızı"
+  },
   "ForgottenKeyI": {
     "name": "Unutulmuş Anahtar (I)"
   },
   "ForgottenKeyII": {
     "name": "Unutulmuş Anahtar (II)"
+  },
+  "CultivationAreaExpansionI": {
+    "name": "Yetiştirme Alanı Genişlemesi (I)"
+  },
+  "CultivationAreaExpansionII": {
+    "name": "Yetiştirme Alanı Genişlemesi (II)"
+  },
+  "CultivationAreaExpansionIII": {
+    "name": "Yetiştirme Alanı Genişlemesi (III)"
+  },
+  "CultivationAreaExpansionIV": {
+    "name": "Yetiştirme Alanı Genişlemesi (IV)"
+  },
+  "CultivationAreaExpansionV": {
+    "name": "Yetiştirme Alanı Genişlemesi (V)"
+  },
+  "CultivationAreaExpansionVI": {
+    "name": "Yetiştirme Alanı Genişlemesi (VI)"
+  },
+  "ImprovedAlchemyCauldronI": {
+    "name": "Geliştirilmiş Simya Kazanı (I)"
+  },
+  "ImprovedAlchemyCauldronII": {
+    "name": "Geliştirilmiş Simya Kazanı (II)"
+  },
+  "ImprovedAlchemyCauldronIII": {
+    "name": "Geliştirilmiş Simya Kazanı (III)"
+  },
+  "ImprovedAlchemyCauldronIV": {
+    "name": "Geliştirilmiş Simya Kazanı (IV)"
+  },
+  "AngledDropBottle": {
+    "name": "Köşeli Damla Şişe"
+  },
+  "HeartstoppingHeartBottle": {
+    "name": "Göz Kamaştıran Kalp Şişe"
+  },
+  "TranquilBayBottle": {
+    "name": "Sütliman Şişe"
+  },
+  "GorgeousGemBottle": {
+    "name": "Muhteşem Mücevher Şişe"
+  },
+  "ChonkyCatBottle": {
+    "name": "Tombik Kedi Şişe"
+  },
+  "WindwheelAstersAroma": {
+    "name": "Rüzgargülü Çiçeği Rayihası"
+  },
+  "ResplendentAsACrystalfly": {
+    "name": "Kristal Kelebeği Işıltısı"
+  },
+  "PerfectGiftRibbon": {
+    "name": "Mükemmel Bir Hediye Kurdelesi"
+  },
+  "RaspberryRedFlyingFlowerFeather": {
+    "name": "Uçuşan Kırmızı Çiçek Tüyü"
+  },
+  "GoldGildAndEmerald": {
+    "name": "Altın ve Zümrüt"
+  },
+  "ShopDecorationBloomingMorale": {
+    "name": "Dükkan Dekorasyonu: Moral Çiçeği"
+  },
+  "ShopDecorationBloomingAtmosphere": {
+    "name": "Dükkan Dekorasyonu: Canlı Ortam"
+  },
+  "ShopDecorationPotentPotions": {
+    "name": "Dükkan Dekorasyonu: Güçlü İksirler"
+  },
+  "ShopDecorationPortentousPotions": {
+    "name": "Dükkan Dekorasyonu: Mucizevi İksirler"
+  },
+  "ShopDecorationPrismaticEffects": {
+    "name": "Dükkan Dekorasyonu: Prizmatik Etkiler"
+  },
+  "SalesExpansionContract": {
+    "name": "Satış Genişletme Sözleşmesi"
   },
   "XuanlianSacredWater": {
     "name": "Kutsal Xuanlian Suyu"
@@ -10040,8 +10154,35 @@
   "AncientCityKey": {
     "name": "Eski Şehir Anahtarı"
   },
+  "BeauteousBerylConch": {
+    "name": "Büyüleyici Beril Kabuk"
+  },
+  "RavishingRomaritimeFlower": {
+    "name": "Göz Alıcı Romaritime Çiçeği"
+  },
   "FishSeizedFromAPelicansMouth": {
     "name": "Pelikanın Ağzından Kaptığın Balık"
+  },
+  "FelixFelicium": {
+    "name": "İyi Şanslar"
+  },
+  "LynettesEnvelope": {
+    "name": "Lynette'in Zarfı"
+  },
+  "CultivationAreaExpansionVII": {
+    "name": "Yetiştirme Alanı Genişlemesi (VII)"
+  },
+  "Alchemeter": {
+    "name": "Simyametre"
+  },
+  "OfficialScript": {
+    "name": "Resmi Senaryo"
+  },
+  "OriginalScript": {
+    "name": "\"Orijinal Senaryo\""
+  },
+  "Manuscript": {
+    "name": "Taslak Metin"
   },
   "TearsAmongTheStars": {
     "name": "Yıldızlar Arasındaki Gözyaşları"
@@ -10778,6 +10919,9 @@
   "SuperDuperInvincibleShiningSparklyMagicCrystal": {
     "name": "Süper Ölümsüz Pasparlak Büyülü Kristal"
   },
+  "ExaltedEarth": {
+    "name": "\"Yüce Toprak\""
+  },
   "FalconsDance": {
     "name": "Şahin Dansı"
   },
@@ -11489,6 +11633,12 @@
   "AlbumTheStellarMoments": {
     "name": "Albüm: Yıldızlar Gibi Parlak Anlar"
   },
+  "ChioriSpectacularSleeves": {
+    "name": "Chiori: Gösterişli Kollar"
+  },
+  "TravelNotesArcaneAmassing": {
+    "name": "Gezi Notları: Saklı Birikim"
+  },
   "AnemoculusResonanceStone": {
     "name": "Rüzgar Özü Rezonans Taşı"
   },
@@ -11729,6 +11879,9 @@
   "MiniSeelieBrilliance": {
     "name": "Minik Peri: Parlaklık"
   },
+  "Fateometer": {
+    "name": "\"Kaderölçer\""
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Talimatlar: Rüzgar Özü Rezonans Taşı"
   },
@@ -11963,6 +12116,9 @@
   "MillennialPearlSeahorse": {
     "name": "Bin Yıllık İnci Denizatı"
   },
+  "FatuiElectroCicinMage": {
+    "name": "Fatui Elektrik Cicin Büyücüsü"
+  },
   "UndividedHeart": {
     "name": "Tek Yürek"
   },
@@ -12188,6 +12344,18 @@
   "PearlSolidification": {
     "name": "Katılaşmış İnci"
   },
+  "ASummationOfInterest": {
+    "name": "İlginç Noktalar"
+  },
+  "HeirToTheAncientSeasAuthority": {
+    "name": "Kadim Deniz İktidarının Varisi"
+  },
+  "CountlessSightsToSee": {
+    "name": "Görülecek Sayısız Manzara"
+  },
+  "ElectroCicinsFlicker": {
+    "name": "Elektrik Cicin Parıltısı"
+  },
   "MagicGuide": {
     "name": "Büyü Rehberi"
   },
@@ -12398,6 +12566,12 @@
   "VeteransVisage": {
     "name": "Gazinin Çehresi"
   },
+  "TomeOfTheEternalFlow": {
+    "name": "Sonsuz Akış Kitabı"
+  },
+  "GoldenTroupesReward": {
+    "name": "Altın Kumpanya Ödülü"
+  },
   "LiyueHarborWharf": {
     "name": "Liyue Limanı Rıhtımı"
   },
@@ -12520,6 +12694,9 @@
   },
   "SilverAndMelus": {
     "name": "Silver ile Melus"
+  },
+  "FortressOfMeropide": {
+    "name": "Meropide Kalesi"
   },
   "ElementalResonanceWovenIce": {
     "name": "Element Rezonansı: Örülü Buzlar"
@@ -12680,6 +12857,12 @@
   "SunyataFlower": {
     "name": "Sunyata Çiçeği"
   },
+  "DayOfResistanceMomentOfShatteredDreams": {
+    "name": "Direniş Günü: Parçalanmış Hayaller Anı"
+  },
+  "ControlledDirectionalBlast": {
+    "name": "Kontrollü Patlatma"
+  },
   "Origin": {
     "name": "Köken"
   },
@@ -12721,6 +12904,9 @@
   },
   "TheChasmSolidIron": {
     "name": "Kanyon: Saf Demir"
+  },
+  "TheChasmBlueCrystal": {
+    "name": "Kanyon: Mavi Kristal"
   },
   "BeginnerPlayerBadge": {
     "name": "Acemi Oyuncu Rozeti"
@@ -13220,6 +13406,9 @@
   "ValleyStoneLampEverbrightLight": {
     "name": "Vadi Taş Lambası: Daima Parlak"
   },
+  "CiderLakelight": {
+    "name": "\"Göldeki Işık\""
+  },
   "EfflorescentIllumination": {
     "name": "Gelişen Aydınlatma"
   },
@@ -13415,6 +13604,12 @@
   "TheLeisureOfDailyMeetings": {
     "name": "\"Günlük Buluşmaların Eğlencesi\""
   },
+  "TeahouseLongTableToolsOfNostalgia": {
+    "name": "Uzun Çayevi Masası: Geçmişe Yolculuk"
+  },
+  "TeahouseToolQualiteaReview": {
+    "name": "Çayevi Gereçleri: Kalite Denetimi"
+  },
   "BreezeBlessedBed": {
     "name": "Zarif Esinti Yatağı"
   },
@@ -13459,6 +13654,12 @@
   },
   "CelebrationOfAnAdHocPerformance": {
     "name": "\"Doğaçlama Gösterinin Kutlaması\""
+  },
+  "TeahouseStoveACapitalCook": {
+    "name": "Çayevi Ocağı: Muhteşem Lezzet"
+  },
+  "TeahouseStoveSlowSteaming": {
+    "name": "Çayevi Ocağı: Buharda Yavaş Pişirme"
   },
   "SoftLoungeSofa": {
     "name": "Rahat Kanepe"
@@ -13525,6 +13726,9 @@
   },
   "MomentaryRestInTheCentralHub": {
     "name": "\"Ana Merkezde Anlık Huzur\""
+  },
+  "TeahouseBenchSimpleSeating": {
+    "name": "Çayevi Bankı: Basit Oturak"
   },
   "NorthernStoneHearth": {
     "name": "Taş Şömine"
@@ -13684,6 +13888,15 @@
   },
   "StandardMusicStandAccurateTuning": {
     "name": "Standart Nota Sehpası: Doğru Akort"
+  },
+  "FreshBudsFromMountainsAndWaters": {
+    "name": "\"Dağların ve Suların Taze Tomurcukları\""
+  },
+  "TeahouseToolDryStorage": {
+    "name": "Çayevi Gereçleri: Kuru Depolama"
+  },
+  "TeahouseToolClearView": {
+    "name": "Çayevi Gereçleri: Net Görüş"
   },
   "MondstadtRugCrimsonArdor": {
     "name": "Mondstadt Halısı: Kızıl Coşku"
@@ -13919,6 +14132,12 @@
   "CommonUseNoteHolder": {
     "name": "Ortak Kullanımlı Notluk"
   },
+  "TeahouseToolMinisculeMissesMakeAMile": {
+    "name": "Çayevi Gereçleri: Damlaya Damlaya Göl Olur"
+  },
+  "MellowTeaInARedClayPot": {
+    "name": "\"Kırmızı Kil Demlikte Açık Çay\""
+  },
   "RealizationsFromTheLandOfWisdom": {
     "name": "\"Bilgelik Diyarı İdrakı\""
   },
@@ -14111,6 +14330,12 @@
   "ValleyResidenceMeasuredBuilding": {
     "name": "Vadi Konutu: Ölçülü Yapı"
   },
+  "ValleyResidenceItsClassified": {
+    "name": "Vadi Konutu: Ayrılmış Bölmeler"
+  },
+  "PortsFabulousFlavors": {
+    "name": "\"Limanın Muazzam Lezzetleri\""
+  },
   "MultiArchedMondstadtBuilding": {
     "name": "Kemerli Mondstadt Binası"
   },
@@ -14299,6 +14524,9 @@
   },
   "AmusementParkCelebrationTent": {
     "name": "Lunapark Kutlama Çadırı"
+  },
+  "SiteOfArtfulAscension": {
+    "name": "\"Simya Ustalarının Çadırı\""
   },
   "RitualShrine": {
     "name": "Ayin Tapınağı"
@@ -15431,6 +15659,9 @@
   "FragrantCedarWoodAnnouncementBoard": {
     "name": "Kokulu Sedir Kütüğü Duyuru Panosu"
   },
+  "CleverlyCraftedContraptionBornInBlessedBitterness": {
+    "name": "Akıllıca Yapılmış Mekanizma: Acıyla Harmanlandı"
+  },
   "BookshelfFreeReading": {
     "name": "Kitaplık: Serbest Okuma"
   },
@@ -15440,11 +15671,32 @@
   "BookshelfFocusedEffect": {
     "name": "Kitaplık: Odak Etkisi"
   },
+  "CleverlyCraftedCabinetRegularOrganization": {
+    "name": "Akıllıca Yapılmış Dolap: Düzenli Tertipli"
+  },
+  "CleverlyCraftedShelfHotSalesStrategy": {
+    "name": "Akıllıca Yapılmış Raf: Popüler Satış Stratejisi"
+  },
   "PoolOfSapphireGrace": {
     "name": "Safir İhtişam Havuzu"
   },
   "ShadedClarity": {
     "name": "Gölgeli Berraklık"
+  },
+  "TeaHarvestsStockpilingAndTransport": {
+    "name": "\"Çay Hasadının Depolanması ve Nakliyesi\""
+  },
+  "TeaHarvestsFisheryInspiration": {
+    "name": "\"Çay Hasadının Balıkçılık İlhamı\""
+  },
+  "TeaHarvestsMultifunctionRack": {
+    "name": "\"Çok Amaçlı Çay Rafı\""
+  },
+  "TeaHarvestsFormulaForFragrance": {
+    "name": "\"Çay Hasadının Koku Yöntemi\""
+  },
+  "TeaHarvestsSunDriedFragrance": {
+    "name": "\"Güneşte Kurutulmuş Çay Kokusu\""
   },
   "WeatheredBambooFence": {
     "name": "Eski Bambu Çit"
@@ -15518,6 +15770,9 @@
   "TeaChairCoolBreeze": {
     "name": "Çay Sandalyesi: Serin Meltem"
   },
+  "TeaVillageStoneBenchSafeSpaciousSturdy": {
+    "name": "\"Çay Köyü Taş Bankı: Güvenli, Geniş, Sağlam\""
+  },
   "TwoStoryHilichurlSentryTower": {
     "name": "İki Katlı Dağ Yabanisi Nöbet Kulesi"
   },
@@ -15577,6 +15832,9 @@
   },
   "SquareTeaTableFriendlyWelcome": {
     "name": "Kare Çay Masası: Dostça Karşılama"
+  },
+  "TeaVillageStoneTableCulturedLeisure": {
+    "name": "Çay Köyü Taş Masası: Yerel Eğlence"
   },
   "WineShopDisplayCounterToYourHeartsContent": {
     "name": "Şarap Dükkanı Vitrini: Kalbinden Geçenler"
