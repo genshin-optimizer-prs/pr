@@ -1,1 +1,0 @@
-import{b as s}from"./index-e7ac3ae7.js";import{b as o}from"./StarDisplay-a1a42b82.js";function n(a=""){const e=s();return o(e.weapons,a)}export{n as u};
