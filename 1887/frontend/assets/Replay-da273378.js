@@ -1,0 +1,1 @@
+import{r as a,a as r,i as t}from"./index-2fe9c882.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var i=e.default=void 0,l=u(a()),o=r(),s=(0,l.default)((0,o.jsx)("path",{d:"M12 5V1L7 6l5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"}),"Replay");i=e.default=s;export{i as d};
