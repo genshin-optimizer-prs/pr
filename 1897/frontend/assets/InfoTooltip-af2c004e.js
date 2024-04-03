@@ -1,0 +1,1 @@
+import{q as o,bx as r}from"./index-dd31b874.js";import{d as n}from"./Info-b5c4ed48.js";function l(t){return o(r,{placement:"top",...t,children:o(n,{sx:{cursor:"help"}})})}function p(t){return o(r,{placement:"top",...t,children:o(n,{fontSize:"inherit",sx:{cursor:"help",verticalAlign:"-10%"}})})}export{l as I,p as a};
