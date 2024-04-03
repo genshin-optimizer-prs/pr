@@ -1,0 +1,1 @@
+import{ac as c}from"./index-c8569605.js";function i(o,t){const n=c(o,a=>r(a));return t(n),c(n,a=>u(a))}function b(o,t){const n=r(o);return t(n),u(n)}function r(o){return Object.fromEntries(o.map(t=>[t,{total:0,current:0}]))}function u(o){return c(o,({total:t,current:n})=>n===t?`${t}`:`${n}/${t}`)}export{i as b,b as c};
