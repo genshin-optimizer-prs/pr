@@ -45,9 +45,12 @@
     "mefficiency": "Maximum RV",
     "lastEdit": "Recently Edited"
   },
+  "config": "Config",
   "delete": "Delete",
   "locked": "Locked",
   "unlocked": "Unlocked",
+  "excluded": "Excluded",
+  "included": "Included",
   "refinement": "Refinement {{value}}",
   "selectlevel": "Select Level",
   "gender": {

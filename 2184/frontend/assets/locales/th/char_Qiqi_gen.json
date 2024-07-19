@@ -7,7 +7,7 @@
     "name": "Ancient Sword Art",
     "fields": {
       "normal": {
-        "0": "<strong><strong>โจมตีปกติ</strong>",
+        "0": "<strong>โจมตีปกติ</strong>",
         "1": "โจมตีด้วยดาบต่อเนื่องได้สูงสุด 5 ครั้ง"
       },
       "charged": {
@@ -116,7 +116,7 @@
   "passive3": {
     "name": "Former Life Memories",
     "description": {
-      "0": "แสดงตำแหน่งของ<strong>ของพิเศษเฉพาะใน Liyue</strong> ในมินิแมป"
+      "0": "แสดงตำแหน่ง<strong>ของพิเศษเฉพาะใน Liyue</strong> บนมินิแมป"
     }
   },
   "constellation1": {

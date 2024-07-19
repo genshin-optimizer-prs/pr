@@ -7,7 +7,7 @@
     "name": "Kaboom!",
     "fields": {
       "normal": {
-        "0": "<strong><strong>โจมตีปกติ</strong>",
+        "0": "<strong>โจมตีปกติ</strong>",
         "1": "โยนของดีที่จะระเบิดเมื่อมีสิ่งอื่น มากระแทกออกไป! ทำการระเบิดโจมตีมากสุดถึงสามครั้ง เกิดเป็น<pyro>ความเสียหายไฟวงกว้าง</pyro>"
       },
       "charged": {
@@ -112,7 +112,7 @@
   "passive3": {
     "name": "All Of My Treasures!",
     "description": {
-      "0": "แสดงตำแหน่งของ<strong>ของพิเศษเฉพาะใน Mondstadt</strong> ในมินิแมป"
+      "0": "แสดงตำแหน่ง<strong>ของพิเศษเฉพาะใน Mondstadt</strong> บนมินิแมป"
     }
   },
   "constellation1": {

@@ -7,7 +7,7 @@
     "name": "Khanda-Barrieren-Zerstörer",
     "fields": {
       "normal": {
-        "0": "<strong><strong>Standardangriff</strong>",
+        "0": "<strong>Standardangriff</strong>",
         "1": "Führt bis zu 4 Pfeilschüsse hintereinander aus."
       },
       "charged": {
@@ -113,7 +113,7 @@
   "passive3": {
     "name": "Weltwissen",
     "description": {
-      "0": "Zeigt auf der Minikarte alle <strong>Besonderheiten Sumerus</strong> in der Nähe an."
+      "0": "Zeigt alle <strong>Besonderheiten Sumerus</strong> in der Nähe auf der Minikarte an."
     }
   },
   "constellation1": {

@@ -7,7 +7,7 @@
     "name": "Passe d'armes",
     "fields": {
       "normal": {
-        "0": "<strong><strong>Attaque normale</strong>",
+        "0": "<strong>Attaque normale</strong>",
         "1": "Enchaîne jusqu'à 5 coups d'épée."
       },
       "charged": {
@@ -114,7 +114,7 @@
   "constellation1": {
     "name": "Lignée de l'excellence",
     "description": {
-      "0": "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par <cryo>Cryo</cryo> augmente de 15 %."
+      "0": "Le taux CRIT des attaques normales et chargées de Kaeya contre les ennemis affectés par l'<cryo>élément Cryo</cryo> augmente de 15 %."
     }
   },
   "constellation2": {

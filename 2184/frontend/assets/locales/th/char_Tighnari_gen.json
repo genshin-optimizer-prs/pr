@@ -7,7 +7,7 @@
     "name": "Khanda Barrier-Buster",
     "fields": {
       "normal": {
-        "0": "<strong><strong>โจมตีปกติ</strong>",
+        "0": "<strong>โจมตีปกติ</strong>",
         "1": "ยิงธนูโจมตีต่อเนื่องมากสุดถึง 4 ครั้ง"
       },
       "charged": {
@@ -113,7 +113,7 @@
   "passive3": {
     "name": "Encyclopedic Knowledge",
     "description": {
-      "0": "แสดงตำแหน่งของ<strong>ของพิเศษเฉพาะใน Sumeru</strong> ในมินิแมป"
+      "0": "แสดงตำแหน่ง<strong>ของพิเศษเฉพาะใน Sumeru</strong> บนมินิแมป"
     }
   },
   "constellation1": {
