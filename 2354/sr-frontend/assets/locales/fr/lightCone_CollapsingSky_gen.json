@@ -1,7 +1,0 @@
-{
-  "name": "Effondrement céleste",
-  "passive": {
-    "name": "Ravage",
-    "description": "Augmente les DGT de l'ATQ normale et de la compétence du porteur de <orangeStrong>{{1}}%</orangeStrong>."
-  }
-}
