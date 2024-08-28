@@ -1,7 +1,0 @@
-{
-  "name": "Void",
-  "passive": {
-    "name": "Fallen",
-    "description": "Saat pertempuran dimulai, meningkatkan <orangeStrong>{{1}}%</orangeStrong> Effect Hit Rate pengguna selama {{2}} giliran."
-  }
-}
