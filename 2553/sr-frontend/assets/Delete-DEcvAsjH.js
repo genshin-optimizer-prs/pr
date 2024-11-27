@@ -1,0 +1,1 @@
+import{r as t,c,j as r}from"./index-BFQKZpGX.js";function u(s=!1){const[o,e]=t.useState(s),a=t.useCallback(()=>e(!0),[e]),l=t.useCallback(()=>e(!1),[e]);return[o,a,l]}const h=c(r.jsx("path",{d:"M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"}),"Delete");export{h as D,u};
