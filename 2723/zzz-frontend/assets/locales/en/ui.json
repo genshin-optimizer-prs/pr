@@ -1,0 +1,13 @@
+{
+  "pageTitle": "Zenless Zone Zero Optimizer",
+  "locked": "Locked",
+  "unlocked": "Unlocked",
+  "reset": "Reset",
+  "discFilter": "Disc Filter",
+  "sortMap": {
+    "new": "New",
+    "name": "Name",
+    "level": "Level",
+    "rarity": "Rarity"
+  }
+}
