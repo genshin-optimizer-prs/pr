@@ -1,0 +1,1 @@
+import{r as e}from"./index-CAMv8FUA.js";import{u as a}from"./useForceUpdate-LqXMm_K-.js";function i(t,o){const[s,r]=a(),u=e.useMemo(()=>s&&t.get(o),[s,t,o]);return e.useEffect(()=>t.follow(o,r),[t,o,r]),u}export{i as u};
