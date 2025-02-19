@@ -1,0 +1,1 @@
+import{r as e}from"./index-BcdzbfkH.js";import{u as a}from"./useForceUpdate-DIe6LVt6.js";function i(t,o){const[s,r]=a(),u=e.useMemo(()=>s&&t.get(o),[s,t,o]);return e.useEffect(()=>t.follow(o,r),[t,o,r]),u}export{i as u};
