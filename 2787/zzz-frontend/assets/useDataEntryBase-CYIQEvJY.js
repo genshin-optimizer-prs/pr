@@ -1,1 +1,0 @@
-import{r as o}from"./index-B7Ol8T4Y.js";function t(a){const[u,s]=o.useState(()=>a==null?void 0:a.get());return o.useEffect(()=>(s(a==null?void 0:a.get()),a==null?void 0:a.follow((f,c)=>f==="update"&&s(c))),[a,s]),u}export{t as u};
