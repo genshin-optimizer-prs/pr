@@ -1,0 +1,25 @@
+{
+  "addNew": "Add Character",
+  "charLevel": "Lv. {{level}}",
+  "characterCard": {
+    "coreStat": "Core Stat",
+    "notUnlocked": "Not Unlocked"
+  },
+  "characterEditor": {
+    "delete": "Delete Character",
+    "new": "NEW"
+  },
+  "basic": "Basic Lv. {{level}}",
+  "dodge": "Dodge Lv. {{level}}",
+  "assist": "Assist Lv. {{level}}",
+  "special": "Special Lv. {{level}}",
+  "chain": "Chain Lv. {{level}}",
+  "core": "Core Lv. {{level}}",
+  "tabEquip": {
+    "swapDisc": "Swap Disc",
+    "swapWengine": "Swap Wengine"
+  },
+  "mindscapeTitle": "Mindscape",
+  "mindscape": "M{{level}}",
+  "characterName": "Character Name"
+}
