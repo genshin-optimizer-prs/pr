@@ -1,0 +1,51 @@
+{
+  "pageTitle": "Genshin Optimizer",
+  "tabs": {
+    "artifacts": "Artefactos",
+    "characters": "Personajes",
+    "tools": "Herramientas",
+    "weapons": "Armas",
+    "doc": "Docs",
+    "setting": "Ajustes",
+    "scanner": "Escáneres"
+  },
+  "social": {
+    "paypal": "PayPal",
+    "patreon": "Patreon",
+    "discord": "Discord"
+  },
+  "unselect": "No seleccionado",
+  "ascending": "Ascendente",
+  "descending": "Descendente",
+  "loading": "Cargando...",
+  "rightsDisclaimer": "Genshin Optimizer no está afiliado ni respaldado por HoYoverse.",
+  "appVersion": "$t(pageTitle) Versión: {{version}}",
+  "error": "Error",
+  "reset": "Restablecer",
+  "info": "INFO",
+  "inventory": "Inventario",
+  "close": "Cerrar",
+  "sortMap": {
+    "new": "Nuevo",
+    "name": "Nombre",
+    "level": "Nivel",
+    "rarity": "Rareza",
+    "efficiency": "VdT Actual",
+    "mefficiency": "VdT Máximo",
+    "artsetkey": "Conjunto de Artefactos"
+  },
+  "link": {
+    "download": "Enlace de Descarga",
+    "discord": "Enlace de Invitación a Discord"
+  },
+  "sortBy": "Ordenar por:",
+  "delete": "Eliminar",
+  "locked": "Bloqueado",
+  "unlocked": "Desbloqueado",
+  "refinement": "Refinamiento {{value}}",
+  "selectlevel": "Seleccionar Nivel",
+  "gender": {
+    "F": "Mujer",
+    "M": "Hombre"
+  }
+}
