@@ -1,0 +1,21 @@
+{
+  "hp": "HP",
+  "hp_": "HP",
+  "atk": "공격력",
+  "atk_": "공격력",
+  "def": "",
+  "def_": "",
+  "eleMas": "원소 마스터리",
+  "enerRech_": "",
+  "critRate_": "치명타 확률",
+  "critDMG_": "",
+  "heal_": "치유 보너스",
+  "physical_dmg_": "물리 피해 보너스",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

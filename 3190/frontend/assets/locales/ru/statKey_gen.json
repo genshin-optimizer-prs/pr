@@ -1,0 +1,21 @@
+{
+  "hp": "HP",
+  "hp_": "HP",
+  "atk": "Сила атаки",
+  "atk_": "Сила атаки",
+  "def": "",
+  "def_": "",
+  "eleMas": "Мастерство стихий",
+  "enerRech_": "",
+  "critRate_": "Шанс крит. попадания",
+  "critDMG_": "",
+  "heal_": "Бонус лечения",
+  "physical_dmg_": "Бонус физ. урона",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

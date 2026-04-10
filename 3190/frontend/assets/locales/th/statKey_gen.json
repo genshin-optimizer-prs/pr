@@ -1,0 +1,21 @@
+{
+  "hp": "พลังชีวิต",
+  "hp_": "พลังชีวิต",
+  "atk": "พลังโจมตี",
+  "atk_": "พลังโจมตี",
+  "def": "",
+  "def_": "",
+  "eleMas": "ความชำนาญธาตุ",
+  "enerRech_": "",
+  "critRate_": "อัตราคริ",
+  "critDMG_": "",
+  "heal_": "โบนัสการรักษา",
+  "physical_dmg_": "โบนัสความเสียหายกายภาพ",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

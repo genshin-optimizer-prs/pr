@@ -1,0 +1,21 @@
+{
+  "hp": "HP",
+  "hp_": "HP",
+  "atk": "ATK",
+  "atk_": "ATK",
+  "def": "",
+  "def_": "",
+  "eleMas": "Elemental Mastery",
+  "enerRech_": "",
+  "critRate_": "CRIT Rate",
+  "critDMG_": "",
+  "heal_": "Healing Bonus",
+  "physical_dmg_": "Physical DMG Bonus",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

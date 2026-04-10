@@ -1,0 +1,21 @@
+{
+  "hp": "生命值",
+  "hp_": "生命值",
+  "atk": "攻擊力",
+  "atk_": "攻擊力",
+  "def": "",
+  "def_": "",
+  "eleMas": "元素精通",
+  "enerRech_": "",
+  "critRate_": "暴擊率",
+  "critDMG_": "",
+  "heal_": "治療加成",
+  "physical_dmg_": "物理傷害加成",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

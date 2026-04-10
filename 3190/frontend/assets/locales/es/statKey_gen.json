@@ -1,0 +1,21 @@
+{
+  "hp": "Vida",
+  "hp_": "Vida",
+  "atk": "ATQ",
+  "atk_": "ATQ",
+  "def": "",
+  "def_": "",
+  "eleMas": "Maestría Elemental",
+  "enerRech_": "",
+  "critRate_": "Prob. CRIT",
+  "critDMG_": "",
+  "heal_": "Bono de Curación",
+  "physical_dmg_": "Bono de Daño Físico",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

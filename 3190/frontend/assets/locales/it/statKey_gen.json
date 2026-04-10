@@ -1,0 +1,21 @@
+{
+  "hp": "PS",
+  "hp_": "PS",
+  "atk": "ATT",
+  "atk_": "ATT",
+  "def": "",
+  "def_": "",
+  "eleMas": "Maestria elementale",
+  "enerRech_": "",
+  "critRate_": "Tasso di CRIT",
+  "critDMG_": "",
+  "heal_": "Bonus di guarigione",
+  "physical_dmg_": "Bonus DAN fisici",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

@@ -1,0 +1,21 @@
+{
+  "hp": "Can",
+  "hp_": "Can",
+  "atk": "Saldırı",
+  "atk_": "Saldırı",
+  "def": "",
+  "def_": "",
+  "eleMas": "Element Ustalığı",
+  "enerRech_": "",
+  "critRate_": "Kritik Oranı",
+  "critDMG_": "",
+  "heal_": "İyileştirme Bonusu",
+  "physical_dmg_": "Fiziksel Hasar Bonusu",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}

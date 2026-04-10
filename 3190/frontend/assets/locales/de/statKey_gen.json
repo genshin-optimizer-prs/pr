@@ -1,0 +1,21 @@
+{
+  "hp": "LP",
+  "hp_": "LP",
+  "atk": "ANG",
+  "atk_": "ANG",
+  "def": "",
+  "def_": "",
+  "eleMas": "Elementarkunde",
+  "enerRech_": "",
+  "critRate_": "KT",
+  "critDMG_": "",
+  "heal_": "Heilungsbonus",
+  "physical_dmg_": "Physischer SCH-Bonus",
+  "anemo_dmg_": "",
+  "geo_dmg_": "",
+  "electro_dmg_": "",
+  "hydro_dmg_": "",
+  "pyro_dmg_": "",
+  "cryo_dmg_": "",
+  "dendro_dmg_": ""
+}
