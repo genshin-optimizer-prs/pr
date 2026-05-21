@@ -1,0 +1,71 @@
+{
+  "ProtectiveCanopy": {
+    "name": "Tettoia protettiva",
+    "desc": "RES a tutti gli elementi +15%, RES fisica +15%."
+  },
+  "FerventFlames": {
+    "name": "Fiamme impetuose",
+    "desc": "Riduce la durata dell'effetto di Cryo di un 40%. Aumenta l'ATT di un 25%."
+  },
+  "SoothingWater": {
+    "name": "Placide acque",
+    "desc": "Riduce la durata dell'effetto di Pyro di un 40%. Aumenta i PS max di un 25%."
+  },
+  "ShatteringIce": {
+    "name": "Ghiaccio dirompente",
+    "desc": "Riduce la durata dell'effetto di Electro di un 40%. Aumenta di un 15% il tasso di CRIT contro gli avversari affetti da Congelamento o sotto l'effetto di Cryo."
+  },
+  "HighVoltage": {
+    "name": "Alta tensione",
+    "desc": "Riduce la durata dell'effetto di Hydro di un 40%. Superconduzione, Sovraccarico, Electrocarica, Carica lunare, Vivificazione, Accentuazione o Iperfioritura hanno un 100% di probabilità di generare una particella elementale di Electro (TdR: 5 s)."
+  },
+  "ImpetuousWinds": {
+    "name": "Venti impetuosi",
+    "desc": "Riduce il consumo di vigore di un 15%. Aumenta la VEL di movimento di un 10%. Riduce il TdR dell'abilità di un 5%."
+  },
+  "EnduringRock": {
+    "name": "Roccia infrangibile",
+    "desc": "Aumenta di un 15% l'efficacia dello scudo. Inoltre, quando i personaggi sono protetti da uno scudo o sono presenti nelle vicinanze delle Gabbie lunari create dalla reazione di Cristallizzazione lunare, si attivano i seguenti effetti speciali: i DAN inflitti aumentano di un 15%, e infliggere DAN ai nemici riduce la loro RES a Geo di un 20% per 15 s."
+  },
+  "SprawlingGreenery": {
+    "name": "Vegetazione proliferante",
+    "desc": "La maestria elementale aumenta di 50. Dopo aver attivato reazioni di Ustione, Vivificazione, Fioritura o Fioritura lunare, la maestria elementale di tutti i membri del gruppo vicini aumenta di 30 per 6 s. Dopo aver attivato le reazioni di Accentuazione, Propagazione, Iperfioritura o Germinazione, la maestria elementale di tutti i membri del gruppo aumenta di 20 per 6 s. La durata di ciascun effetto è contata in modo indipendente."
+  },
+  "Moonsign": {
+    "name": "Presagio lunare",
+    "desc": {
+      "0": "Quando nel gruppo sono presenti personaggi con Presagio lunare, il gruppo raggiunge un livello di Presagio lunare corrispondente al numero di tali personaggi.",
+      "1": "Quando il gruppo raggiunge Presagio lunare: Barlume ascendente, i personaggi con Presagio lunare vengono potenziati. Anche i personaggi senza Presagio lunare possono conferire effetti positivi al gruppo."
+    },
+    "nascentGleam": {
+      "name": "Barlume nascente",
+      "desc": "Tutti i personaggi del gruppo ottengono l'effetto Presagio lunare: Barlume nascente."
+    },
+    "ascendantGleam": {
+      "name": "Barlume ascendente",
+      "desc": {
+        "0": {
+          "0": "Tutti i personaggi del gruppo ottengono l'effetto Presagio lunare: Barlume ascendente, che potenzia alcuni talenti e abilità dei personaggi con Presagio lunare.",
+          "1": "Se non diversamente specificato, dopo che il Presagio lunare ha raggiunto il livello di Barlume ascendente il gruppo riceve anche gli effetti di Barlume nascente."
+        },
+        "1": {
+          "0": "<br/>",
+          "1": "Inoltre, dopo che un personaggio che non possiede Presagio lunare usa un'abilità o un Tripudio elementale, i DAN da reazioni lunari di tutti i personaggi vicini aumentano per 20 s in base al tipo elementale del suddetto personaggio, fino a un 36% massimo. L'effetto non è cumulabile.",
+          "2": "Se il tipo elementale del personaggio è:",
+          "3": [
+            " <pyro>Pyro</pyro>, <electro>Electro</electro> o <cryo>Cryo</cryo>, i DAN aumentano di uno 0,9% per ogni 100 di ATT;",
+            " <hydro>Hydro</hydro>, i DAN aumentano di uno 0,6% per ogni 1.000 di PS max;",
+            " <geo>Geo</geo>, i DAN aumentano di un 1% per ogni 100 di DIF;",
+            " <anemo>Anemo</anemo> o <dendro>Dendro</dendro>, i DAN aumentano di un 2,25% per ogni 100 di maestria elementale."
+          ]
+        }
+      }
+    }
+  },
+  "Hexerei": {
+    "name": "Hexerei: Rito segreto",
+    "desc": {
+      "0": "I personaggi nel tuo gruppo con attributo Hexerei vengono ulteriormente potenziati."
+    }
+  }
+}
