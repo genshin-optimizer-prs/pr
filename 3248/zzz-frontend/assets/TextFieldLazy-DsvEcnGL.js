@@ -1,0 +1,1 @@
+import{d as l,Z as o,j as r,bT as x}from"./index-B4NEFJN-.js";function T({value:e,onChange:i,...a}){const[n,s]=l.useState(e);o(e)!==e&&s(e);const u=()=>i(n);return r(x,{value:n,onChange:t=>s(t.target.value),onBlur:u,onKeyDown:t=>t.key==="Enter"&&!a.multiline&&u(),...a})}export{T};
