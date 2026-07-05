@@ -1,0 +1,59 @@
+{
+  "title": "Einstellungen",
+  "languageCard": {
+    "languageFormat": "Sprache: {{language}}"
+  },
+  "uploadCard": {
+    "title": "Datenbank Hochladen",
+    "replaceDatabase": "Datenbank Aktualisieren",
+    "hint": "Lade die JSON-Datei hier hoch...",
+    "hintPaste": "... oder kopiere den Datentext hierhin.",
+    "error": {
+      "jsonParse": "Kann JSON-File nicht parsen.",
+      "unknown": "Unbekanntes Dateiformat.",
+      "monaInvalid": "Ungültiges Mona-Uranai Dateiformat",
+      "goInvalid": "Ungültiges GO Backupdateiformat"
+    },
+    "dbSource": "Datenquelle:",
+    "goodUpload": {
+      "title": "<strong>Genshin Open Object Description</strong> (GOOD) Format"
+    },
+    "buttons": {
+      "open": "Öffnen"
+    }
+  },
+  "count": {
+    "chars": "Figuren:",
+    "arts": "Artefakte:",
+    "weapons": "Waffen:",
+    "total": "Insgesamt:",
+    "new": "Neu:",
+    "updated": "Aktualisiert:",
+    "removed": "Entfernt:",
+    "unchanged": "Unverändert:",
+    "invalid": "Ungültig:",
+    "upgraded": "Aufgewertet:",
+    "teams": "Teams:",
+    "builds": "Builds: ",
+    "buildTcs": "TC Builds: "
+  },
+  "DatabaseCard": {
+    "title": "Datenbank",
+    "button": {
+      "download": "Herunterladen",
+      "copy": "Zwischenablage",
+      "delete": "Löschen",
+      "upload": "Hochladen",
+      "swap": "Wechseln"
+    },
+    "currentDB": "Aktuelle Datenbank"
+  },
+  "sillyCard": {
+    "desc": "Wir haben ein paar Charakterportraits von <strong>Silly Wisher</strong> <1>gestohlen</1> ausgeliehen (mit Erlaubnis) und den Genshin Optimizer damit genetisch modifiziert.",
+    "toggle": {
+      "enabled": "Silly Optimizer An",
+      "disabled": "Silly Optimizer Aus"
+    }
+  },
+  "letsnow": "Lass es schneien!"
+}
