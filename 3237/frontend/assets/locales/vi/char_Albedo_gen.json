@@ -1,0 +1,208 @@
+{
+  "name": "Albedo",
+  "title": "Kreideprinz",
+  "description": "Người đứng đầu trong các Giả Kim Thuật Sĩ kiêm đội trưởng tiểu đội điều tra của Đội Kỵ Sĩ Tây Phong, được gọi là thiên tài \"Kreideprinz\".",
+  "constellationName": "Cung Đứa Con Vôi Trắng",
+  "auto": {
+    "name": "Bạch",
+    "fields": {
+      "normal": {
+        "0": "<strong>Tấn Công Thường</strong>",
+        "1": "Thực hiện tối đa 5 lần đánh kiếm liên tiếp."
+      },
+      "charged": {
+        "0": "<strong>Trọng Kích</strong>",
+        "1": "Tiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt."
+      },
+      "plunging": {
+        "0": "<strong>Tấn Công Khi Đáp</strong>",
+        "1": "Đáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất."
+      }
+    },
+    "skillParams": {
+      "0": "Sát Thương Lần 1",
+      "1": "Sát Thương Lần 2",
+      "2": "Sát Thương Lần 3",
+      "3": "Sát Thương Lần 4",
+      "4": "Sát Thương Lần 5",
+      "5": "Sát Thương Trọng Kích",
+      "6": "Thể lực Trọng Kích tiêu hao",
+      "7": "Sát Thương Khi Đáp",
+      "8": "ST Khi Rơi Từ Độ Cao Thấp/Cao",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": ""
+    }
+  },
+  "skill": {
+    "name": "Thuật Sáng Thế - Chế Tạo Mặt Trời",
+    "description": {
+      "0": "Luyện thành Hoa Mặt Trời, gây <geo>sát thương phạm vi Nguyên Tố Nham</geo>.",
+      "1": "<br/>",
+      "2": "<strong>Hoa Mặt Trời</strong>",
+      "3": "Có những đặc tính sau:",
+      "4": [
+        "Lấy Hoa Mặt Trời làm tâm, khi địch nằm trong khu vực nhận sát thương, Hoa Mặt Trời sẽ sinh ra Hoa Khoảnh Khắc, bung nở gây <geo>sát thương phạm vi Nguyên Tố Nham</geo>, sát thương tính theo phòng ngự của Albedo.",
+        "Mỗi 2 giây chỉ có thể sinh ra 1 Hoa Khoảnh Khắc.",
+        "Khi nhân vật đứng trên Hoa Mặt Trời sẽ ngưng tụ sức mạnh Nguyên Tố Nham, hình thành đài thủy tinh nâng nhân vật lên. Cùng lúc chỉ tồn tại 1 đài thủy tinh.",
+        "Cùng lúc chỉ có thể tồn tại 1 Hoa Mặt Trời do Albedo tạo ra, Hoa Mặt Trời được coi như <geo>vật tạo Nguyên Tố Nham</geo>."
+      ],
+      "5": "<br/>",
+      "6": "<strong>Nhấn giữ</strong>",
+      "7": "Có thể điều chỉnh vị trí hiệu lực của kỹ năng.",
+      "8": "<br/>",
+      "9": "<i>Loại Nham hoa này có đặc tính kỳ lạ, cũng giống như thuật giả kim, sinh ra từ mặt đất nhưng lại luôn hy vọng vươn cao lên trời, hóa thành vầng thái dương.</i>"
+    },
+    "skillParams": {
+      "0": "Sát Thương Kỹ Năng",
+      "1": "ST Hoa Khoảnh Khắc",
+      "2": "Thời Gian Kéo Dài",
+      "3": "CD Kỹ Năng",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": ""
+    }
+  },
+  "burst": {
+    "name": "Chiêu Giáng Sinh - Sóng Vỗ Đại Lục",
+    "description": {
+      "0": "Dưới chỉ huy của Albedo, nham tinh bùng nổ, gây <geo>sát thương phạm vi Nguyên Tố Nham</geo> về phía trước.",
+      "1": "Khi trong trận có tồn tại Hoa Mặt Trời do Albedo tạo ra, sẽ nở bung 7 đóa Hoa Sinh Tử trong khu vực của Hoa Mặt Trời, nở rộ rực rỡ đồng thời gây <geo>sát thương phạm vi Nguyên Tố Nham</geo>.",
+      "2": "<br/>",
+      "3": "Sát thương bạo phát và sát thương của Hoa Sinh Tử sẽ không tạo thành Hoa Khoảnh Khắc.",
+      "4": "<br/>",
+      "5": "<i>Dưới mệnh lệnh của Kreideprinz, dòng thủy triều của địa chất cuồn cuộn dâng trào.</i>"
+    },
+    "skillParams": {
+      "0": "ST Bạo Phát",
+      "1": "ST Hoa Sinh Tử",
+      "2": "CD",
+      "3": "Năng Lượng Nguyên Tố",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "",
+      "9": "",
+      "10": "",
+      "11": "",
+      "12": "",
+      "13": "",
+      "14": "",
+      "15": ""
+    }
+  },
+  "passive1": {
+    "name": "Uy Lực Màu Vôi Trắng",
+    "description": {
+      "0": "Hoa Khoảnh Khắc sinh ra từ <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> sát thương gây cho kẻ địch có HP dưới 50% sẽ tăng 25%."
+    },
+    "upgradedDescription": {
+      "0": "Trong Kỹ Năng Nguyên Tố <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong>, Hoa Khoảnh Khắc sinh ra từ Hoa Mặt Trời sẽ tăng 25% sát thương gây ra cho kẻ địch dưới 50% HP.",
+      "1": "Ngoài ra, nếu trên sân tồn tại Đồng Vị Bạc do bản thân Albedo tạo ra, thì sẽ tăng sát thương gây ra lần này, mức tăng tương đương 240% Phòng Ngự của Albedo."
+    }
+  },
+  "passive2": {
+    "name": "Trí Tuệ Người Trong Bình",
+    "description": {
+      "0": "Khi thi triển <strong>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</strong> sẽ tăng 125 điểm Tinh Thông Nguyên Tố cho thành viên trong đội ở gần, kéo dài 10s."
+    }
+  },
+  "passive3": {
+    "name": "Phát Hiện Của Thiên Tài",
+    "description": {
+      "0": "Khi ghép nguyên liệu đột phá vũ khí sẽ có 10% tỷ lệ nhận x2 thành phẩm."
+    }
+  },
+  "lockedPassive": {
+    "name": "Đêm Lễ Ma Nữ - Sách Ánh Sáng Trắng",
+    "description": {
+      "0": "Sau khi hoàn thành <strong>Bài Tập Của Ma Nữ - Câu Hỏi Ngoài Lề</strong>, Albedo sẽ trở thành nhân vật <strong>Hexerei</strong>. Khi đội hình có ít nhất 2 nhân vật Hexerei, sẽ nhận được hiệu quả <strong>Hexerei - Nghi Thức Bí Mật</strong>, giúp nhân vật Hexerei nhận được cường hóa.",
+      "1": "<br/>",
+      "2": "<strong>Hexerei - Nghi Thức Bí Mật</strong>",
+      "3": [
+        "Trong 20s sau khi thi triển Kỹ Năng Nguyên Tố, nếu Kỹ Năng Nguyên Tố của Albedo đánh trúng kẻ địch, sẽ luyện hóa ra <strong>Đồng Vị Bạc</strong> ở gần kẻ địch trong 10s. Khi trong trận không tồn tại Hoa Mặt Trời do bản thân Albedo tạo ra, nếu Albedo chưa ngã xuống, một Đồng Vị Bạc sẽ nhận hiệu quả tạo ra Hoa Khoảnh Khắc tương tự như Hoa Mặt Trời. Tối đa cùng lúc tồn tại hai Đồng Vị Bạc do bản thân Albedo tạo ra.",
+        "Trong 20s sau khi luyện hóa ra Hoa Mặt Trời, sẽ căn cứ vào Phòng Ngự của Albedo để tăng sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ cho nhân vật trong đội ở gần: Mỗi 1000 Phòng Ngự sẽ tăng 4% sát thương, tối đa tăng 12% sát thương theo cách này.",
+        "Trong 20s sau khi luyện hóa ra Đồng Vị Bạc, sẽ căn cứ vào Phòng Ngự của Albedo để tăng sát thương Tấn Công Thường, Trọng Kích, Tấn Công Khi Đáp, Kỹ Năng Nguyên Tố và Kỹ Năng Nộ cho nhân vật Hexerei trong đội ở gần: Mỗi 1000 Phòng Ngự sẽ tăng 10% sát thương, tối đa tăng 30% sát thương theo cách này."
+      ]
+    }
+  },
+  "constellation1": {
+    "name": "Hoa Địa Đàng",
+    "description": {
+      "0": "Khi Hoa Khoảnh Khắc được tạo ra từ <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> của Albedo bung nở, sẽ hồi 1,2 điểm Năng Lượng Nguyên Tố cho Albedo."
+    },
+    "upgradedDescription": {
+      "0": "Trong Kỹ Năng Nguyên Tố <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> của Albedo, khi Hoa Khoảnh Khắc sinh ra từ Hoa Mặt Trời bung nở, sẽ hồi phục 1.2 điểm Năng Lượng Nguyên Tố cho bản thân Albedo.",
+      "1": "Ngoài ra, trong 20s sau khi Albedo thi triển Kỹ Năng Nguyên Tố <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong>, Phòng Ngự của bản thân tăng 50%."
+    }
+  },
+  "constellation2": {
+    "name": "Liên Đại Hiển Sinh",
+    "description": {
+      "0": "Khi Hoa Khoảnh Khắc từ <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> nở, sẽ ban hiệu quả Sinh Tử cho Albedo, kéo dài 30s:",
+      "1": [
+        "Khi thi triển <strong>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</strong> sẽ xóa tất cả hiệu quả Sinh Tử và tăng sát thương nổ của Chiêu Giáng Sinh - Sóng Vỗ Đại Lục cũng như sát thương do Hoa Sinh Tử gây ra theo số tầng bị xóa.",
+        "Mỗi tầng Sinh Tử sẽ tăng sát thương bằng 30% phòng ngự của Albedo.",
+        "Hiệu quả này tối đa cộng dồn 4 lần."
+      ]
+    },
+    "upgradedDescription": {
+      "0": "Khi Hoa Khoảnh Khắc từ Kỹ Năng Nguyên Tố <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> bung nở, sẽ ban hiệu quả Sinh Tử cho Albedo trong 30s:",
+      "1": [
+        "Khi thi triển Kỹ Năng Nộ <strong>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</strong>, sẽ xóa tất cả hiệu quả Sinh Tử và tăng sát thương nổ của Chiêu Giáng Sinh - Sóng Vỗ Đại Lục cũng như sát thương do Hoa Sinh Tử gây ra theo số tầng bị xóa.",
+        "Mỗi tầng Sinh Tử sẽ tăng sát thương bằng 30% Phòng Ngự của Albedo.",
+        "Hiệu quả này tối đa cộng dồn 4 lần."
+      ],
+      "2": "<br/>",
+      "3": "Ngoài ra, khi Albedo đang dự bị và hiệu quả Sinh Tử cộng dồn đến 4 tầng, sẽ xóa tất cả hiệu quả Sinh Tử và sinh ra 3 đóa Hoa Sinh Tử ở gần nhân vật của bản thân trong trận hiện tại, bung nở mãnh liệt và gây <geo>Sát Thương Phạm Vi Nguyên Tố Nham</geo> dựa trên 300% Phòng Ngự của Albedo, sát thương này được xem là sát thương Kỹ Năng Nộ. Sau khi mở khóa Thiên Phú Cố Định <tooltip ns=char_Albedo_gen baseKey18=passive2><strong>Trí Tuệ Người Trong Bình</strong></tooltip>, sẽ còn kích hoạt hiệu quả trong Thiên Phú Cố Định, khiến nhân vật trong đội ở gần tăng 125 Tinh Thông Nguyên Tố trong 10s."
+    }
+  },
+  "constellation3": {
+    "name": "Ánh Sáng Mặt Trời",
+    "description": {
+      "0": "Cấp kỹ năng <strong>Thuật Sáng Thế - Chế Tạo Mặt Trời</strong> +3.",
+      "1": "Tăng tối đa đến cấp 15."
+    }
+  },
+  "constellation4": {
+    "name": "Sự Giáng Thế Của Thần",
+    "description": {
+      "0": "Nhân vật trong đội trên trận ở khu vực Hoa Mặt Trời sẽ tăng 30% sát thương tấn công khi đáp tạo ra."
+    },
+    "upgradedDescription": {
+      "0": "Nhân vật ra trận trong đội hiện tại khi ở trong phạm vi của Hoa Mặt Trời, sẽ tăng 30% sát thương Tấn Công Khi Đáp.",
+      "1": "Ngoài ra, khi nhân vật ra trận trong đội gần đó thực hiện nhảy gần Đồng Vị Bạc, sẽ phá hủy Đồng Vị Bạc, tăng mạnh độ cao của lần nhảy này và trong 3s tiếp theo, sát thương xung kích đáp đất từ Tấn Công Khi Đáp của nhân vật đó tăng 30%. Hiệu quả này sẽ bị xóa sau 0.1s từ khi xung kích đáp đất của Tấn Công Khi Đáp gây ra sát thương."
+    }
+  },
+  "constellation5": {
+    "name": "Thủy Triều Cổ Đại",
+    "description": {
+      "0": "Cấp kỹ năng <strong>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</strong> +3.",
+      "1": "Tăng tối đa đến cấp 15."
+    }
+  },
+  "constellation6": {
+    "name": "Đất Tinh Khiết",
+    "description": {
+      "0": "Nhân vật ra trận trong đội hiện tại khi ở trong phạm vi của Hoa Mặt Trời, nếu được bảo vệ bởi khiên sinh ra từ phản ứng Kết Tinh, hoặc khi có Trăng Trôi trong khu vực của Hoa Mặt Trời, thì sẽ tăng 17% sát thương gây ra."
+    },
+    "upgradedDescription": {
+      "0": "Nhân vật ra trận trong đội hiện tại khi ở trong phạm vi của Hoa Mặt Trời, nếu được bảo vệ bởi khiên sinh ra từ phản ứng Kết Tinh, hoặc khi có Trăng Trôi trong khu vực của Hoa Mặt Trời, thì sẽ tăng 17% sát thương gây ra.",
+      "1": "Ngoài ra, khi thi triển Kỹ Năng Nộ <strong>Chiêu Giáng Sinh - Sóng Vỗ Đại Lục</strong>, sẽ phá hủy tất cả Đồng Vị Bạc trên sân. Khi phá hủy Đồng Vị Bạc thông qua cách này, Kỹ Năng Nộ lần này sẽ xem như xóa bỏ 4 tầng hiệu quả Sinh Tử trong Cung Mệnh {LINK#TE382}<strong>Liên Đại Hiển Sinh</strong></tooltip>, đồng thời trong 20s tiếp theo sẽ tăng sát thương Hoa Sinh Tử gây ra, mức tăng tương đương 250% Phòng Ngự của Albedo."
+    }
+  }
+}
