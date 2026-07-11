@@ -1,1 +1,0 @@
-import{d as l,ah as o,j as r,c9 as c}from"./index-BlfohCjw.js";function d({value:e,onChange:i,...a}){const[n,s]=l.useState(e);o(e)!==e&&s(e);const u=()=>i(n);return r(c,{value:n,onChange:t=>s(t.target.value),onBlur:u,onKeyDown:t=>t.key==="Enter"&&!a.multiline&&u(),...a})}export{d as T};
