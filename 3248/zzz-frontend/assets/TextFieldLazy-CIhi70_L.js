@@ -1,1 +1,0 @@
-import{d as l,ah as o,j as r,cc as c}from"./index-BukFcUkr.js";function d({value:e,onChange:i,...a}){const[n,s]=l.useState(e);o(e)!==e&&s(e);const u=()=>i(n);return r(c,{value:n,onChange:t=>s(t.target.value),onBlur:u,onKeyDown:t=>t.key==="Enter"&&!a.multiline&&u(),...a})}export{d as T};
