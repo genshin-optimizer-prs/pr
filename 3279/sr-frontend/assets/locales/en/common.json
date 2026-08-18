@@ -1,0 +1,50 @@
+{
+  "social": {
+    "paypal": "PayPal",
+    "patreon": "Patreon",
+    "discord": "Discord"
+  },
+  "link": {
+    "download": "Download Link",
+    "discord": "Discord Invite Link"
+  },
+  "unselect": "Deselect",
+  "inventory": "Inventory",
+  "ascending": "Ascending",
+  "descending": "Descending",
+  "sortBy": "Sort By: ",
+  "loading": "Loading...",
+  "edit": "Edit",
+  "error": "Error",
+  "reset": "Reset",
+  "info": "Info",
+  "close": "Close",
+  "delete": "Delete",
+  "clear": "Clear",
+  "randomize": "Randomize",
+  "locked": "Locked",
+  "unlocked": "Unlocked",
+  "excluded": "Excluded",
+  "included": "Included",
+  "selectlevel": "Select Level",
+  "gender": {
+    "F": "Female",
+    "M": "Male"
+  },
+  "storage": {
+    "title": "Storage Usage",
+    "info": "Local storage is limited to 5 MB total, and this is shared across Genshin Optimizer and Zenless Optimizer. Each database stored will take up some space, and the currently active database will take additional space.\n\nIf you are nearing the storage limit, data may fail to save or may get erased.",
+    "category": "Category",
+    "size": "Space Used",
+    "activeGo": "Active GO Database",
+    "goDb1": "GO Database 1",
+    "goDb2": "GO Database 2",
+    "goDb3": "GO Database 3",
+    "goDb4": "GO Database 4",
+    "activeZo": "Active ZO Database",
+    "zoDb1": "ZO Database 1",
+    "zoDb2": "ZO Database 2",
+    "zoDb3": "ZO Database 3",
+    "zoDb4": "ZO Database 4"
+  }
+}
