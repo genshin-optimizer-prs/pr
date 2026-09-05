@@ -1,0 +1,58 @@
+{
+  "title": "Ajustes",
+  "languageCard": {
+    "languageFormat": "Idioma: {{language}}"
+  },
+  "uploadCard": {
+    "title": "Carga Base de Datos",
+    "replaceDatabase": "Actualizar Base de Datos",
+    "hint": "Cargue su archivo JSON aquí...",
+    "hintPaste": "...o pegue su contenido a continuación.",
+    "error": {
+      "jsonParse": "Incapaz de analizar el archivo JSON.",
+      "unknown": "Formato de archivo desconocido.",
+      "monaInvalid": "Formato de archivo Mona-Uranai no válido",
+      "goInvalid": "Formato de archivo de copia de seguridad de GO no válido."
+    },
+    "dbSource": "Origen de Datos:",
+    "goodUpload": {
+      "title": "Formato <strong>Genshin Open Object Description</strong> (GOOD)"
+    },
+    "buttons": {
+      "open": "Abrir",
+      "detectDups": "Detectar Actualizaciones/Duplicados",
+      "delNotInImport": "Eliminar elementos no incluidos en la importación"
+    },
+    "tooltip": {
+      "detectdup": "Encuentra actualizaciones/duplicados en el inventario GO y combina la importación con GO.",
+      "ignoreDup": "No detectar actualizaciones/duplicados. La importación se añadirá sobre el inventario GO existente.",
+      "delNotInImport": "Asume que la importación es tu inventario completo. Los elementos en el Inventario GO que no existan en la importación serán eliminados.",
+      "keepNotInImport": "Asume que la importación es un inventario parcial. No se eliminará nada."
+    }
+  },
+  "count": {
+    "chars": "Personajes:",
+    "arts": "Artefactos:",
+    "weapons": "Armas:",
+    "total": "Total:",
+    "new": "Nuevos:",
+    "updated": "Actualizados:",
+    "removed": "Borrados:",
+    "unchanged": "Sin cambios:",
+    "invalid": "No válidos:",
+    "upgraded": "actualizado:",
+    "dbTotal": "Total Combinado:",
+    "notInImport": "No en Importar:"
+  },
+  "DatabaseCard": {
+    "title": "Base de datos",
+    "button": {
+      "download": "Descargar",
+      "copy": "Portapapeles",
+      "delete": "Borrar",
+      "upload": "Subir",
+      "swap": "Cambiar"
+    },
+    "currentDB": "Base de datos actual"
+  }
+}

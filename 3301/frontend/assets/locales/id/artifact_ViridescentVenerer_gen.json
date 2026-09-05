@@ -1,0 +1,29 @@
+{
+  "setName": "Viridescent Venerer",
+  "setEffects": {
+    "2": "Anemo DMG Bonus +15%.",
+    "4": "DMG yang diakibatkan reaksi Swirl +60% dan DMG yang diakibatkan reaksi Stellar Swirl +20%. Elemental RES musuh yang terpengaruh -40% selama 10 detik untuk jenis elemen yang terlibat dalam reaksi Swirl. Saat memicu reaksi Stellar Swirl terhadap musuh, Cryo RES mereka juga akan berkurang 40%. Efek pengurangan RES dengan jenis elemen yang sama tidak dapat ditumpuk."
+  },
+  "pieces": {
+    "flower": {
+      "name": "In Rememberance of Viridescent Field",
+      "desc": "Bunga liar yang bermekaran memenuhi suatu daratan. Saat meninggalkan daratan tesebut, pemburu memetiknya dan mengenakannya di dada."
+    },
+    "plume": {
+      "name": "Viridescent Arrow Feather",
+      "desc": "Bulu dari anak panah yang pernah menembus tubuh mangsanya secepat kilat, dan masih tetap bersih."
+    },
+    "sands": {
+      "name": "Viridescent Venerer's Determination",
+      "desc": "Alat misterius yang dibawa oleh pemburu di tubuhnya, yang dapat selalu mengarah ke arah mangsanya."
+    },
+    "goblet": {
+      "name": "Viridescent Venerer's Vessel",
+      "desc": "Kantong air yang pernah digunakan oleh Viridescent Venerer. Kapasitasnya untuk menampung air melebihi dugaan kebanyakan orang."
+    },
+    "circlet": {
+      "name": "Viridescent Venerer's Diadem",
+      "desc": "Mahkota kebanggaan yang pernah dimiliki oleh Viridescent Venerer. Warnanya hijau segar seperti angin yang bertiup di alam liar."
+    }
+  }
+}
