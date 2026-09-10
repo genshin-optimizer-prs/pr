@@ -1,0 +1,29 @@
+{
+  "setName": "Blumen des verlorenen Paradieses",
+  "setEffects": {
+    "2": "Erhöht Elementarkunde um 80 Punkte.",
+    "4": "Erhöht den durch den Träger mit den Reaktionen „Sprießen“, „Supraspross“ und „Flammenspross“ verursachten Schaden um 40 % und den durch den Träger mit der Reaktion „Mondspross“ verursachten Schaden um 10 %. Erhöht den Bonus von obigem Effekt zusätzlich um 25 %, nachdem der Träger die Reaktionen „Sprießen“, „Supraspross“, „Flammenspross“ oder „Mondspross“ ausgelöst hat, hält 10 s, 4-fach stapelbar, 1 s Abklingzeit. Dieser Effekt kann auch dann ausgelöst werden, wenn sich der Träger inaktiv in der Truppe befindet."
+  },
+  "pieces": {
+    "flower": {
+      "name": "Pracht von Ay-Khanoum",
+      "desc": "Eine sorgsam aus Amethyst geschnitzte Blume, die in ihrer Form eine nahezu ausgestorbene Blumenart imitiert."
+    },
+    "plume": {
+      "name": "Festmahl des Verfalls",
+      "desc": "Eine Feder einer längst ausgestorbenen Vogelart, die von den Anhängern der Blumengöttin in Gold und Juwelen eingefasst wurde."
+    },
+    "sands": {
+      "name": "Geronnener Moment",
+      "desc": "Eine Sanduhr, deren Sand nicht länger herabfällt, egal wie man sie auch dreht und wendet, und nicht mehr auf den Fluss der Zeit reagiert."
+    },
+    "goblet": {
+      "name": "Zauberflasche des Geheimnisbewahrers",
+      "desc": "Eine kleine aus Amethyst geschnitzte Flasche, die fest mit einem Deckel aus Smaragd verschlossen ist."
+    },
+    "circlet": {
+      "name": "Amethystkrone",
+      "desc": "Eine Krone, in die Amethyste und Smaragde eingeschlossen sind, vermutlich war sie der Kopfschmuck eines Priesters der Blumengöttin in der Vergangenheit."
+    }
+  }
+}
