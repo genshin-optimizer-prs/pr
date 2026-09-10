@@ -1,0 +1,49 @@
+{
+  "intro": "Nhân danh trang tính toán <strong>tối thượng</strong> cho <3><i>Genshin Impact</i></3>, GO sẽ note lại túi đồ thánh di vật/vũ khí/nhân vật của bạn, từ đó giúp bạn tạo ra build tối ưu nhất dựa vào cách bạn chơi chỉ với những thứ mà bạn đã có sẵn.",
+  "quickLinksCard": {
+    "title": "Danh sách liên kết",
+    "buttons": {
+      "tyGuide": {
+        "title": "Danh sách phát Youtube hướng dẫn",
+        "tooltip": "Học cách dùng Genshin Optimizer"
+      },
+      "scanners": {
+        "title": "Tự động nhập dữ liệu",
+        "tooltip": "Phần mềm từ phía thứ 3 cho phép thực hiện lấy dữ liệu thánh di vật tự động từ trong game"
+      },
+      "kqm": {
+        "title": "Keqing Mains",
+        "tooltip": "Cộng đồng theorycraft & làm guide"
+      },
+      "devDiscord": {
+        "title": "Discord của nhà phát triển Genshin",
+        "tooltip": "Cộng đồng các nhà phát triển dành cho Genshin"
+      },
+      "good": {
+        "title": "Tài liệu về \"GOOD\"",
+        "tooltip": "Genshin Open Object Descriptor Documentation"
+      },
+      "patchNotes": {
+        "title": "Chi tiết cập nhật",
+        "tooltip": "Tất cả chi tiết cập nhật của GO"
+      }
+    }
+  },
+  "inventoryCard": {
+    "title": "Túi đồ GO"
+  },
+  "vidGuideCard": {
+    "title": "Video hướng dẫn"
+  },
+  "teamCard": {
+    "title": "Gặp gỡ đội ngũ",
+    "jobTitle": {
+      "leadDev": "Trưởng nhóm phát triển",
+      "dev": "Nhà phát triển",
+      "mod": "Điều phối viên",
+      "admin": "Quản Trị Viên",
+      "translator": "Quản lý dịch thuật",
+      "TC": "Phụ trách Theorycraft"
+    }
+  }
+}
