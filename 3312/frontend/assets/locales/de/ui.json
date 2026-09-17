@@ -1,0 +1,60 @@
+{
+  "pageTitle": "Genshin Optimizer",
+  "tabs": {
+    "artifacts": "Artefakte",
+    "characters": "Figuren",
+    "tools": "Extras",
+    "weapons": "Waffen",
+    "doc": "Docs",
+    "setting": "Einstellungen",
+    "scanner": "Scanner",
+    "teams": "Teams",
+    "archive": "Archiv",
+    "builds": "Builds"
+  },
+  "social": {
+    "paypal": "PayPal",
+    "patreon": "Patreon",
+    "discord": "Discord"
+  },
+  "unselect": "Abwählen",
+  "ascending": "Aufsteigend",
+  "descending": "Absteigend",
+  "loading": "Laden...",
+  "rightsDisclaimer": "Genshin Optimizer ist kein Teil von HoYoverse und wird nicht davon unterstützt.",
+  "appVersion": "$t(pageTitle) Version: <1>{{version}}</1>",
+  "error": "Fehler",
+  "reset": "Zurücksetzen",
+  "info": "Info",
+  "inventory": "Inventar",
+  "close": "Schließen",
+  "sortMap": {
+    "new": "Neu",
+    "name": "Name",
+    "level": "Stufe",
+    "rarity": "Qualität",
+    "efficiency": "Aktuelle RV",
+    "mefficiency": "Maximale RV",
+    "artsetkey": "Artefaktset",
+    "lastEdit": "Zuletzt Bearbeitet"
+  },
+  "link": {
+    "discord": "Discord Einladungslink"
+  },
+  "sortBy": "Sortieren Nach: ",
+  "delete": "Löschen",
+  "locked": "Gesperrt",
+  "unlocked": "Entsperrt",
+  "refinement": "Verfeinerung {{value}}",
+  "selectlevel": "Stufe Einstellen",
+  "gender": {
+    "F": "Weiblich",
+    "M": "Männlich"
+  },
+  "statGroupKey": {
+    "basic_stats": "Attribute"
+  },
+  "sillyPageTitle": "Silly Optimizer",
+  "excluded": "Ausgeschlossen",
+  "included": "Einbezogen"
+}

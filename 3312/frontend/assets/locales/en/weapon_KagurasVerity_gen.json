@@ -1,0 +1,24 @@
+{
+  "name": "Kagura's Verity",
+  "description": {
+    "0": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it."
+  },
+  "passiveName": "Kagura Dance of the Sacred Sakura",
+  "passiveDescription": {
+    "0": {
+      "0": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by <cryo>12%</cryo> as well as their Stellar-Conduct DMG by <cryo>12%</cryo> for 24s. Max 3 stacks. This character will gain a <cryo>12%</cryo> All Elemental DMG Bonus when they possess 3 stacks."
+    },
+    "1": {
+      "0": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by <cryo>15%</cryo> as well as their Stellar-Conduct DMG by <cryo>15%</cryo> for 24s. Max 3 stacks. This character will gain a <cryo>15%</cryo> All Elemental DMG Bonus when they possess 3 stacks."
+    },
+    "2": {
+      "0": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by <cryo>18%</cryo> as well as their Stellar-Conduct DMG by <cryo>18%</cryo> for 24s. Max 3 stacks. This character will gain a <cryo>18%</cryo> All Elemental DMG Bonus when they possess 3 stacks."
+    },
+    "3": {
+      "0": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by <cryo>21%</cryo> as well as their Stellar-Conduct DMG by <cryo>21%</cryo> for 24s. Max 3 stacks. This character will gain a <cryo>21%</cryo> All Elemental DMG Bonus when they possess 3 stacks."
+    },
+    "4": {
+      "0": "Using an Elemental Skill grants the Kagura Dance effect, increasing the wielding character's Elemental Skill DMG by <cryo>24%</cryo> as well as their Stellar-Conduct DMG by <cryo>24%</cryo> for 24s. Max 3 stacks. This character will gain a <cryo>24%</cryo> All Elemental DMG Bonus when they possess 3 stacks."
+    }
+  }
+}
