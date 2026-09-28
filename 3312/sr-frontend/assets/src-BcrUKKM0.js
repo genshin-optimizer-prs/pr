@@ -1,1 +1,0 @@
-import{Jn as e,Zn as t}from"./src-CGc1An4R.js";import{t as n}from"./src-D906kH4l.js";import{a as r}from"./src-BPEfU4Y-.js";function i(){return t(e,{sx:{my:1},children:t(r,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:t(n,{})})})}export{i as default};
