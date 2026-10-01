@@ -1,7 +1,0 @@
-{
-  "name": "Mehr Schwitzen, weniger Weinen",
-  "passive": {
-    "name": "Komm trainieren!",
-    "description": "Erhöht die KRIT-Rate des Trägers um <orangeStrong>{{1, percent}}%</orangeStrong>. Wenn der Memogeist des Trägers auf dem Kampffeld ist, wird der von ihm und dem Memogeist verursachte SCH um <orangeStrong>{{2, percent}}%</orangeStrong> erhöht."
-  }
-}
