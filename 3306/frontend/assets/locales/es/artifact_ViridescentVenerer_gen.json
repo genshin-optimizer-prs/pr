@@ -1,0 +1,29 @@
+{
+  "setName": "Sombra Verde Esmeralda",
+  "setEffects": {
+    "2": "Bono de Daño Anemo +15%.",
+    "4": "El daño de la reacción de Torbellino aumenta en un 60%, y el de Torbellino Estelar aumenta en un 20%. Dependiendo del tipo elemental del Torbellino, la RES Elemental correspondiente del enemigo se reduce en un 40% durante 10 s. Al causar una reacción de Torbellino Estelar contra un enemigo, su RES Cryo también se reduce en un 40%. Las reducciones del mismo tipo de RES Elemental no se pueden acumular."
+  },
+  "pieces": {
+    "flower": {
+      "name": "Recuerdo de Flores Silvestres",
+      "desc": "En el pasado, esta flor brotaba por todas partes. La Cazadora la usó como broche cuando se marchó de su tierra."
+    },
+    "plume": {
+      "name": "Pluma de la Cazadora Verde Esmeralda",
+      "desc": "La pluma de una flecha que hace tiempo atravesó a su presa. Sigue estando igual de suave y limpia."
+    },
+    "sands": {
+      "name": "Serenidad de la Cazadora Verde Esmeralda",
+      "desc": "Un increíble dispositivo que solía llevar la Cazadora. Siempre apunta en dirección a su presa."
+    },
+    "goblet": {
+      "name": "Cantimplora de la Cazadora Verde Esmeralda",
+      "desc": "Una cantimplora para almacenar agua. Su interior es mucho más grande de lo que parece."
+    },
+    "circlet": {
+      "name": "Sombrero de la Cazadora Verde Esmeralda",
+      "desc": "La corona que la Cazadora llevaba con gran orgullo. Es de un color verde como la naturaleza salvaje."
+    }
+  }
+}
