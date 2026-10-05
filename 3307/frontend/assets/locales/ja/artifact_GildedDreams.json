@@ -1,0 +1,4 @@
+{
+  "overrideSameCond": "同じ元素タイプのチーム人数を上書きする",
+  "overrideOtherCond": "異なる元素タイプのチーム人数を上書きする"
+}
