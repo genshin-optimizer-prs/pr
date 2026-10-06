@@ -1,8 +1,0 @@
-{
-  "states": {
-    "evengleam": "Ocaso",
-    "afterglow": "Crepúsculo",
-    "dawnblaze": "Alba"
-  },
-  "condName": "Estado actual"
-}
