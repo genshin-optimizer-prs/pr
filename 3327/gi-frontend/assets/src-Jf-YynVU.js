@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Er as t,Gn as n,Kn as r,Oa as i,Sr as a,Vn as o,an as s,q as c,t as l}from"./src-DXmeu1Ud.js";var u=e(i());function d(){return s((0,u.useMemo)(()=>`Settings`,[])),n(o,{sx:{my:1},children:r(a,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[n(t,{maxWidth:`50%`,children:n(c,{})}),n(l,{})]})})}export{d as default};
