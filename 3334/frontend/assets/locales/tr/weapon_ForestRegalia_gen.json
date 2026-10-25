@@ -1,0 +1,24 @@
+{
+  "name": "Orman Nişanı",
+  "description": {
+    "0": "Aranara hikayesinden elde ettiğin bir silah. Ormanın düşmanlarını ikiye ayırabileceğin bir büyük kılıcın şekline girmiş."
+  },
+  "passiveName": "Orman Sığınağı",
+  "passiveDescription": {
+    "0": {
+      "0": "Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Ay Çiçeklenmesi, Aşırı Çiçeklenme veya Filizlenme tepkimeleri tetiklendiğinde karakterin etrafında en fazla 10 saniye kalan bir Bilinç Yaprağı oluşur. Yaprak toplandıktan sonra 12 saniyeliğine karakterin Element Ustalığı <cryo>60</cryo> artar. Bu şekilde her 20 saniyede 1 Yaprak oluşturulabilir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir. Bilinç Yaprağı etkisi birikmez."
+    },
+    "1": {
+      "0": "Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Ay Çiçeklenmesi, Aşırı Çiçeklenme veya Filizlenme tepkimeleri tetiklendiğinde karakterin etrafında en fazla 10 saniye kalan bir Bilinç Yaprağı oluşur. Yaprak toplandıktan sonra 12 saniyeliğine karakterin Element Ustalığı <cryo>75</cryo> artar. Bu şekilde her 20 saniyede 1 Yaprak oluşturulabilir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir. Bilinç Yaprağı etkisi birikmez."
+    },
+    "2": {
+      "0": "Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Ay Çiçeklenmesi, Aşırı Çiçeklenme veya Filizlenme tepkimeleri tetiklendiğinde karakterin etrafında en fazla 10 saniye kalan bir Bilinç Yaprağı oluşur. Yaprak toplandıktan sonra 12 saniyeliğine karakterin Element Ustalığı <cryo>90</cryo> artar. Bu şekilde her 20 saniyede 1 Yaprak oluşturulabilir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir. Bilinç Yaprağı etkisi birikmez."
+    },
+    "3": {
+      "0": "Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Ay Çiçeklenmesi, Aşırı Çiçeklenme veya Filizlenme tepkimeleri tetiklendiğinde karakterin etrafında en fazla 10 saniye kalan bir Bilinç Yaprağı oluşur. Yaprak toplandıktan sonra 12 saniyeliğine karakterin Element Ustalığı <cryo>105</cryo> artar. Bu şekilde her 20 saniyede 1 Yaprak oluşturulabilir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir. Bilinç Yaprağı etkisi birikmez."
+    },
+    "4": {
+      "0": "Yanma, Hızlanma, Şiddetlenme, Yayılma, Çiçeklenme, Ay Çiçeklenmesi, Aşırı Çiçeklenme veya Filizlenme tepkimeleri tetiklendiğinde karakterin etrafında en fazla 10 saniye kalan bir Bilinç Yaprağı oluşur. Yaprak toplandıktan sonra 12 saniyeliğine karakterin Element Ustalığı <cryo>120</cryo> artar. Bu şekilde her 20 saniyede 1 Yaprak oluşturulabilir. Bu etki, karakter savaş alanında olmasa da tetiklenebilir. Bilinç Yaprağı etkisi birikmez."
+    }
+  }
+}
