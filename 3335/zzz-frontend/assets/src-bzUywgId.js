@@ -1,1 +1,0 @@
-import{Bd as e,Ed as t,Sd as n,Td as r,Wd as i,ed as a,t as o}from"./index-Ch2EBZbC.js";function s(){return r(n,{sx:{my:1},children:t(e,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[r(i,{maxWidth:`50%`,children:r(a,{})}),r(o,{})]})})}export{s as default};
