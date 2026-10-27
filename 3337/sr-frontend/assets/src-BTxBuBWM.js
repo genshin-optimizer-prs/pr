@@ -1,1 +1,0 @@
-import{$n as e,vr as t}from"./src-C64_EjIZ.js";import{w as n}from"./src-CnvwSuBf.js";function r(){return e(t,{my:1,children:e(n,{})})}export{r as default};
