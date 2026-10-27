@@ -1,0 +1,20 @@
+{
+  "skill": {
+    "eye": "Con Mắt Lôi Phạt đang có hiệu lực",
+    "partyCost": "Năng Lượng Tiêu Hao"
+  },
+  "burst": {
+    "resolves": "Ý Lực",
+    "resolveInitial_": "<electro>Lượng tăng bội số sát thương của Lưỡi Đao Vô Tưởng</electro>",
+    "resolveInfused_": "<electro>Lượng tăng bội số sát thương của Mộng Tưởng Nhất Tâm</electro>",
+    "burstDmg": "Sát thương Lưỡi Đao Vô Tưởng",
+    "active": "Trong trạng thái <strong>Mộng Tưởng Nhất Tâm</strong>"
+  },
+  "a4": {
+    "enerRest": "Năng lượng nguyên tố hồi phục bởi <strong>Mộng Tưởng Nhất Tâm</strong>",
+    "eleDMG": "Sát thương nguyên tố lôi tăng thêm"
+  },
+  "c4": {
+    "expires": "Sau khi trạng thái <strong>Mộng Tưởng Nhất Tâm</strong> kết thúc"
+  }
+}
