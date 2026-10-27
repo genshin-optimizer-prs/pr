@@ -1,0 +1,2 @@
+import{Ad as e,Pd as t,Uu as n,fd as r,gd as i,hd as a,t as o}from"./index-BM8ulrxH.js";function s(){return a(r,{sx:{my:1},children:i(e,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[a(t,{maxWidth:`50%`,children:a(n,{})}),a(o,{})]})})}export{s as default};
+//# sourceMappingURL=src-DwGybDHr.js.map
