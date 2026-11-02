@@ -10,3 +10,4 @@ ${m.join(``)}
   out.push({ids:[${f}],value:${l.get(e[0])}})
 ${h.join(``)}
 return{failed,results:out}`;return Function(`candidates`,`m`,g)}onmessage=async({data:e})=>{try{let t=await q(e);t&&postMessage(t)}catch(e){postMessage({ty:`err`,msg:`${e}`})}};let K;async function q(e){switch(e.ty){case`init`:if(K)throw Error(`already initialized`);return K=new W(e),{ty:`progress`,idle:!0,...K.resetProgress()};case`config`:K.setOptThreshold(e.threshold);return;case`work?`:{let t=K.steal(e.maxKeep);return t.length?{ty:`add`,works:t}:void 0}case`add`:return K.add(e.works),Y()}}let J=!1;async function Y(){if(J)return;J=!0;let e;do await new Promise(e=>setTimeout(e)),e=K.subworks.length<=1,postMessage({ty:`progress`,idle:e,...K.resetProgress()}),K.compute();while(K.hasWork());return J=!1,{ty:`progress`,idle:!e,...K.resetProgress()}}})();
+//# sourceMappingURL=workerHandle-CQyv24kG.js.map
