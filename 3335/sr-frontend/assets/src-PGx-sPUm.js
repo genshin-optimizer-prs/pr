@@ -1,1 +1,0 @@
-import{Zn as e,pr as t}from"./src-CGV0XalM.js";import{T as n}from"./src-42rUR6zR.js";function r(){return e(t,{my:1,children:e(n,{})})}export{r as default};
