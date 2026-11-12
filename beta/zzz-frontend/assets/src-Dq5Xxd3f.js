@@ -1,0 +1,2 @@
+import{Cd as e,Dd as t,Ed as n,Gd as r,Vd as i,t as a,td as o}from"./index-Du9h1Mlc.js";function s(){return n(e,{sx:{my:1},children:t(i,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[n(r,{maxWidth:`50%`,children:n(o,{})}),n(a,{})]})})}export{s as default};
+//# sourceMappingURL=src-Dq5Xxd3f.js.map
