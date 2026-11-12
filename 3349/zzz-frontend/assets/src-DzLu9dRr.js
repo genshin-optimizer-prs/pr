@@ -1,2 +1,0 @@
-import{Fd as e,Rd as t,mf as n,t as r,td as i,vf as a,zd as o}from"./src-DtoTKJNm.js";function s(){return t(e,{sx:{my:1},children:o(n,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[t(a,{maxWidth:`50%`,children:t(i,{})}),t(r,{})]})})}export{s as default};
-//# sourceMappingURL=src-DzLu9dRr.js.map
