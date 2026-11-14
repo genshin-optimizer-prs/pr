@@ -1,0 +1,2 @@
+import{Df as e,Kd as t,Ud as n,ed as r,jf as i,qd as a,t as o}from"./src-C_pBK4BB.js";function s(){return t(n,{sx:{my:1},children:a(e,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[t(i,{sx:{maxWidth:`50%`},children:t(r,{})}),t(o,{})]})})}export{s as default};
+//# sourceMappingURL=src-M37ykO7q.js.map
