@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Bn as t,Gn as n,R as r,Tr as i,Wn as a,an as o,ha as s,kr as c,t as l}from"./src-CAnrN2Fy.js";var u=e(s());function d(){return o((0,u.useMemo)(()=>`Settings`,[])),a(t,{sx:{my:1},children:n(i,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[a(c,{sx:{maxWidth:`50%`},children:a(r,{})}),a(l,{})]})})}export{d as default};
+//# sourceMappingURL=src-Cg9jVR_k.js.map
