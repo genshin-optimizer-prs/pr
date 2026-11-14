@@ -1,0 +1,2 @@
+import{o as e}from"./rolldown-runtime-C0FnF6B9.js";import{Ar as t,Gn as n,Nr as r,R as i,Xn as a,Yn as o,ba as s,ln as c,t as l}from"./src-DusOrtyC.js";var u=e(s());function d(){return c((0,u.useMemo)(()=>`Settings`,[])),o(n,{sx:{my:1},children:a(t,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[o(r,{sx:{maxWidth:`50%`},children:o(i,{})}),o(l,{})]})})}export{d as default};
+//# sourceMappingURL=src-DV82Id3M.js.map
