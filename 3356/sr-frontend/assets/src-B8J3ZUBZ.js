@@ -1,0 +1,1 @@
+import{Xn as e,xr as t}from"./src-B0n1A7Ge.js";import{w as n}from"./src-NCAZn7ES.js";function r(){return e(t,{sx:{my:1},children:e(n,{})})}export{r as default};
