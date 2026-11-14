@@ -1,1 +1,0 @@
-import{Xn as e,qn as t}from"./src-2da1n9o-.js";import{t as n}from"./src-Dde-echX.js";import{a as r}from"./src-CUive-JQ.js";function i(){return e(t,{sx:{my:1},children:e(r,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:e(n,{})})})}export{i as default};
