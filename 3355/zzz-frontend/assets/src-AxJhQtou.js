@@ -1,2 +1,0 @@
-import{Ad as e,Ed as t,Wd as n,kd as r,qd as i,rd as a,t as o}from"./index-UxTs4gqq.js";function s(){return r(t,{sx:{my:1},children:e(n,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[r(i,{maxWidth:`50%`,children:r(a,{})}),r(o,{})]})})}export{s as default};
-//# sourceMappingURL=src-AxJhQtou.js.map
