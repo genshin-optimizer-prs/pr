@@ -1,0 +1,24 @@
+{
+  "name": "Chân Ý Của Kagura",
+  "description": {
+    "0": "Chuông thần được dùng khi biểu diễn Vũ Điệu Kagura, đã được Guuji chúc phúc. Hương thơm của Anh Đào Thần thoang thoảng trên đó."
+  },
+  "passiveName": "Vũ Điệu Kagura Của Anh Đào Thần",
+  "passiveDescription": {
+    "0": {
+      "0": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng <cryo>12%</cryo> sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng <cryo>12%</cryo>. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được <cryo>12%</cryo> buff sát thương tất cả nguyên tố."
+    },
+    "1": {
+      "0": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng <cryo>15%</cryo> sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng <cryo>15%</cryo>. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được <cryo>15%</cryo> buff sát thương tất cả nguyên tố."
+    },
+    "2": {
+      "0": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng <cryo>18%</cryo> sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng <cryo>18%</cryo>. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được <cryo>18%</cryo> buff sát thương tất cả nguyên tố."
+    },
+    "3": {
+      "0": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng <cryo>21%</cryo> sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng <cryo>21%</cryo>. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được <cryo>21%</cryo> buff sát thương tất cả nguyên tố."
+    },
+    "4": {
+      "0": "Khi thi triển Kỹ Năng Nguyên Tố sẽ nhận được hiệu quả \"Vũ Điệu Kagura\", giúp người trang bị vũ khí này tăng <cryo>24%</cryo> sát thương Kỹ Năng Nguyên Tố, sát thương phản ứng Tinh-Siêu Dẫn tăng <cryo>24%</cryo>. Hiệu quả này duy trì 24s, tối đa cộng dồn 3 tầng. Khi có 3 tầng, nhân vật này sẽ nhận được <cryo>24%</cryo> buff sát thương tất cả nguyên tố."
+    }
+  }
+}
