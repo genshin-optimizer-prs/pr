@@ -1,1 +1,0 @@
-import{Tr as e,Xn as t}from"./src-jSDTKLtc.js";import{w as n}from"./src-DT_fBUgr.js";function r(){return t(e,{sx:{my:1},children:t(n,{})})}export{r as default};
