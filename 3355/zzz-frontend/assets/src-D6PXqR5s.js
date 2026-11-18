@@ -1,0 +1,2 @@
+import{Cd as e,Dd as t,Ed as n,Gd as r,Gu as i,Hd as a,t as o}from"./index-BvJH3bx2.js";function s(){return n(e,{sx:{my:1},children:t(a,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:[n(r,{sx:{maxWidth:`50%`},children:n(i,{})}),n(o,{})]})})}export{s as default};
+//# sourceMappingURL=src-D6PXqR5s.js.map
