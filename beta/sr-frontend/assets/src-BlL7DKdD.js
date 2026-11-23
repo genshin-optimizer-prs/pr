@@ -1,0 +1,1 @@
+import{Xn as e,qn as t}from"./src-ySItgDma.js";import{t as n}from"./src-DS9yCmel.js";import{a as r}from"./src-BenaTRFV.js";function i(){return e(t,{sx:{my:1},children:e(r,{sx:{display:`flex`,flexDirection:`column`,gap:2},children:e(n,{})})})}export{i as default};
